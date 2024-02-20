@@ -8,6 +8,6 @@ def ascii_to_binary(ascii_file, binary_file):
     o3d.io.write_point_cloud(binary_file, pcd)
 
 # 使用示例
-ascii_file = 'data_e6.pcd'
-binary_file = 'data_e6_b.pcd'
+ascii_file = '../rotated_e6.pcd'
+binary_file = '../rotated_e6_b.pcd'
 ascii_to_binary(ascii_file, binary_file)
