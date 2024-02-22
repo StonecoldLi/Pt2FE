@@ -9,12 +9,12 @@ def load_pcd(filename):
 
 def main():
     print("Hello, world!")
-    filename = "./plane_data.pcd"
+    filename = "../data_slicing/centroid_5/plane1_centroid.pcd"
     cloud_source = load_pcd(filename)
     if cloud_source:
         print(f"PointCloud_source has: {len(cloud_source.points)} data points.")
 
-        output_filename = "./ascii_change.pcd"
+        output_filename = "../data_slicing/centroid_5/plane1_centroid_asc.pcd"
         o3d.io.write_point_cloud(output_filename, cloud_source, write_ascii=True)
 
 if __name__ == "__main__":
