@@ -1,0 +1,17 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 180
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 180
+DATA binary
+u®‹AA‡À‰ED=3â‹Am€Àáï=¨‹A|òï¿¨ö%¼1®‹AoÀà=<B¯‹AZÀ1g<œ¯‹AEñ¿oõ¼EÁ‹A\ƒÀ@w;<Õ‘‹A…¨Á¿®Y<5®‹AjKÇ¿XÁQ<}®‹Aõ+Õ¿Z¶3<Ù®‹AX’ª¿4¦M<È¯‹AöÀ¿ËÍH<:¶‹AÌ*Ã¿zõ8<#Ç‹A8§¿‚d<f®‹A®P¿!:L<…®‹A38q¿]ŠN<§®‹A [„¿Æ4X<õ¾‹Aã¸\¿p©d<È‹A+=e¿Nm<€Ü‹AšŒ¿&=QŽ‹AŠ¿Ù*P<–‹A‹ÿ¿8vh<£‹A?öe¾ÎÁA<Þ§‹Aaý¾¹Œ><8¬‹A³E¿süF<å®‹A èø¾i§<è®‹Aÿ«¿V§O<¯‹AG ¿ÔÄ@<¯‹A/+¾…h@<d¯‹A@€Å¾)`D<tÐ‹A‘™½5Å]<šê‹A5ºF¾|ZG<sš‹A²>Âs<®‹A‹ôR½]MF<Œ®‹A2gÐ>ƒñ%<ñ®‹A—3>G<6¯‹Aü(K=Br<<l½‹A‰(ò>üZD<ªÌ‹A%Z!>Û€<+Ô‹A¼å#>
+½Œ<}á‹Aˆß:	L<ï‹A¦«½‰j4<Ì’‹Aˆ„?sZ¼K§‹A=x?ŸÃY¼“®‹APû4?–z8<Æ®‹Aw?dÝ<°‹AØìD?tO<3°‹Ai¿p?çyY¼û°‹ALç?cÖ#<
+Ñ‹A
+:L?‰ñ%<£ê‹AAlP?†?S=H®‹A1y¯?ãc$<†®‹A´X›?ú>/<¯‹Ayâ ?7s<Œ¯‹Aâ »?ýYÁ<ñÊ‹AçÙ£?sO<œã‹AQF»?9U$=¨¯‹A-=@zÚ—=¿ ‹A4‡VÀËj?p´‹AºžVÀ¯)m?¸µ‹A—-ZÀÓ¦Š?Äµ‹ApVÀÙ¨d?J¸‹A€´XÀ×5‚?­Ü‹A5íXÀtƒ?¶‹A&um@”&o?i¸‹AùLp@‘ˆ?´»‹A°3o@‚?$Ã‹AZPm@`¥l?	î‹A­m@ˆ r??™‹A'dÀNÆ?õœ‹A]ÀÂ¹›?Ø®‹Ar“^À¼y¥?‡¸‹A•mdÀ—lÇ?"·‹Aùë_Àú«?e¸‹A>bÀ\+º?:·‹AÈ²\À.¨™?¡¼‹A‚ˆcÀßÛÁ?HÌ‹A9`À)®?Ô‹AJ>bÀîI»?˜‹Aw%v@ùÏ­?›µ‹A8Òq@ÞÐ‘?^¶‹At@o ?»‹A1æs@hŸ?Î‹A$§t@þ£?”ç‹Aºñr@§˜?ò±‹A‰’w@Ð´?Ž·‹A¶Çv@ù°??¹‹ATêz@ŽÉ?
+º‹A¤äz@ËË?h»‹A€&x@­¸?¥‹AbqÀò	@‡³‹A%$sÀ°Ò@V¸‹A(ÑlÀ|aø?Ö¹‹A,DiÀWã?e¼‹A1pÀ”©@o»‹A\lÀáô?¾‹AM=rÀ*R@·Ä‹AìnÀ©@§Ä‹ARhÀ\à?ÏÉ‹Ad£lÀtPø?æÊ‹AÙáiÀÏîæ?7Ÿ‹A˜Ç„@\Ê@§£‹AÒ-@„ö??¬‹A™@œYæ?½‹A1'„@òù@=¼‹Agb‚@ôê@>»‹A´±€@×§ñ?ê»‹A½@yã?6¿‹AIHƒ@`Â@¾‹AÒ3@"g÷?5Á‹Aƒ‚@Ã¢@ÊÀ‹AÁX~@DÙÝ?JÁ‹Ac€ÀCN7@cš‹A©J{À¯-'@¶À‹A”Î~À·½1@ª½‹Aq[tÀÅ@VÀ‹A”Â{ÀÚT(@ ¿‹A!ŠwÀ«‹@&À‹AàçyÀSl"@€Á‹A?qvÀF»@Ä‹A´zxÀÎ@Ç‹A$~À¯=/@!Ó‹AÄ¯yÀÁK"@ÕÞ‹A:úvÀ¯z@Fì‹A`uÀâi@&’‹AßD‰@,X,@y²‹A²ˆ@«Ç)@8À‹Aåc‰@ìþ,@r¾‹Aæk†@¤ @x¾‹A}k…@/@§Á‹Aûà‰@žö0@’Ã‹A'zŠ@8>4@DÃ‹A@
+ˆ@›ÿ$@üÄ‹AÂ‡@€@ÔÓ‹A/Q†@!Ð@wä‹A ž†@‰@Ã¨‹A¸‚À?E@5´‹AdÀ—;@”Á‹Ad6ƒÀæ‡H@µÄ‹AYT†ÀŸAZ@ØÃ‹A^÷ƒÀGXL@5Ä‹AÎ„„À—`O@YÃ‹A(R‚ÀW¯B@ÙÃ‹Aa`‚À^_C@3Æ‹Aûÿ…Àd¡X@jÚ‹A«Ì„À.xQ@Â‹A”‹@î7@°Ã‹A˜"Œ@J=>@AÇ‹A«CŒ@$?@‚×‹A¼`Œ@§Ô?@ö”‹AÀª@øƒZ@l£‹ASR@vF@MÅ‹A8/@þ‚W@ÉÈ‹A'iŽ@ãËL@›È‹A´¡@VœG@qÉ‹A¿FŽ@ðëK@ë‹A@m@ÜY@Œ‹A“ÝˆÀ¼h@L—‹A	ŠÀï<p@þ¢‹A_œ‰ÀbŒm@QÆ‹AJ(‰À:«j@gÅ‹AlJ‡À(â_@_Ç‹A»¸‰Àƒn@yÈ‹AV’‰Àh£x@ÄÇ‹AVþˆÀËi@jÉ‹AZ.‹ÀMÄv@îÒ‹AÄÕ‰ÀIËn@>è‹Ax‰ÀDJj@ì¹‹A@×•@ðy@ÜÅ‹A]É‘@ša@¶Ç‹Aš=’@Åid@ÀÈ‹AúÎ“@ßðm@]Ë‹A:É•@¯Çy@)Í‹Ar7•@÷·v@àÒ‹AJÖ‘@´‘a@¦Ê‹A:µÀrëˆ@™­‹A´2›@·j@$Ã‹AQþš@}ÆŒ@wÌ‹A|ß›@"@HÌ‹Aã<›@MR@
