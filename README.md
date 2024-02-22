@@ -29,13 +29,13 @@
 - Slicing the surface
 
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/surface_slicing.png#pic_center)  
-  - the upper one is the example of slicing the whole model, but somehow, in this project, we tried to slice the planes individually.
+  - the upper one is the example of slicing the whole model, but somehow, in this project, we tried to slice the planes individually.  
 
-![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/parts.png#pic_center)
-
+![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/parts.png#pic_center)  
+  - this one is the model after sliced in 2 different directions (use plane3 as the example)
 
 - TRY to find the centroid point of three planes
-  - FAILED when the slicing densely, since may caused by the pointclouds are a little bit sparse when we trying to slice in a short distance.
+  - FAILED when the slicing densely, since may caused by the pointclouds are a little bit sparse when we trying to slice in a short distance. 
 
 #### 2024/2/22
 - Finally, we get the centroid point of each parts.
