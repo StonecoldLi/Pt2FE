@@ -44,6 +44,7 @@
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/centroid_shu.png#pic_center)
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/org_point.png#pic_center)
 
+<<<<<<< HEAD
 - Also, we add some points in the intersection points to made 3 parts undivided  
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/add_extra_points.png#pic_center)
 
@@ -51,3 +52,5 @@
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/meshlab.png#pic_center)
 
 #### However, a serious problem is how to change the mesh(.obj/.stl) into the FE-Model??????
+=======
+>>>>>>> 7e6a5e8116cb40e58dd8824f9e436868afd27a97
