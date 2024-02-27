@@ -1,15 +1,15 @@
 import pandas as pd
 # 以前面创建的CSV文件为例，添加'id'列
-df = pd.read_csv('../data_merged/plane1merge_cp.csv')
+df = pd.read_csv('../data_merged/plane3merge_cp.csv')
 
 # 添加'id'列，从1开始
-df['id'] = ['1' + str(i+1) for i in range(len(df))]
+df['id'] = ['3' + str(i+1) for i in range(len(df))]
 
 # 由于原始CSV文件没有'id'列，这里将'id'列移动到最前面
 df = df[['id'] + [col for col in df.columns if col != 'id']]
 
 # 保存修改后的CSV文件
-updated_csv_file_path = '../data_merged/plane1_mcp_id.csv'
+updated_csv_file_path = '../data_merged/plane3_mcp_id.csv'
 df.to_csv(updated_csv_file_path, index=False)
 
 updated_csv_file_path

@@ -971,6 +971,7 @@ dl,all,,all
 acel,,9.8
 solve
 
+/post1
 
 
 

@@ -1,8 +1,8 @@
 import csv
 
 # 定义输入和输出文件名
-txt_file = '../generate_FE_model/data_merged/plane1merge_cp.txt'
-csv_file = '../generate_FE_model/data_merged/plane1merge_cp.csv'
+txt_file = '../generate_FE_model/data_merged/plane3merge_cp.txt'
+csv_file = '../generate_FE_model/data_merged/plane3merge_cp.csv'
 
 # 用于生成列名的字母列表
 column_names = [chr(ord('x') + i) for i in range(3)]

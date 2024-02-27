@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 # 步骤1: 从CSV文件读取点云数据
-csv_file = '../data_merged/plane1_mcp_id.csv' 
+csv_file = '../data_merged/plane2_mcp_id.csv' 
 df = pd.read_csv(csv_file)
 # 假设CSV文件中列名分别为'id', 'x', 'y', 'z'
 points = df[['x', 'y', 'z']].values  # 获取空间坐标
@@ -16,7 +16,8 @@ pcd.points = o3d.utility.Vector3dVector(points)
 pcd.estimate_normals(search_param=o3d.geometry.KDTreeSearchParamHybrid(radius=0.1, max_nn=30))
 
 # 步骤2: 应用Ball Pivoting算法进行曲面重建
-radii = [0.05, 0.2, 0.5, 0.9]  # 根据数据集调整球半径参数
+#radii = [0.05, 0.2, 0.5, 0.9]  # 根据数据集调整球半径参数
+radii = [0.05, 0.2, 0.5, 2] #plane2
 rec_mesh = o3d.geometry.TriangleMesh.create_from_point_cloud_ball_pivoting(
     pcd, o3d.utility.DoubleVector(radii))
 
@@ -40,5 +41,5 @@ print(len(triangle_point_ids))  # 打印前10个三角形的点云编号
 
 # 将结果保存为CSV文件
 triangle_ids_df = pd.DataFrame(triangle_point_ids, columns=['PointID1', 'PointID2', 'PointID3'])
-output_csv = './bpa_data/triangle_point_ids.csv'  # 输出CSV文件的路径
+output_csv = './bpa_data/plane2_triangle_point_ids.csv'  # 输出CSV文件的路径
 triangle_ids_df.to_csv(output_csv, index=False)

@@ -2,11 +2,11 @@ import pandas as pd
 
 #ADD K (keypoint)
 '''
-df = pd.read_csv("../data_merged/plane1_mcp_id.csv")
+df = pd.read_csv("../data_merged/plane3_mcp_id.csv")
 #df = pd.DataFrame(data)
 
 # 指定保存的文件名
-file_name = '../ball_pivoting/bpa_data/plane1_cp.txt'
+file_name = '../ball_pivoting/bpa_data/plane3_cp.txt'
 
 # 将DataFrame的每行转换为指定格式的字符串并保存到txt文件
 with open(file_name, 'w') as file:
@@ -16,11 +16,12 @@ with open(file_name, 'w') as file:
 '''
 
 #ADD A (area)
-df = pd.read_csv("../ball_pivoting/bpa_data/triangle_point_ids.csv")
+
+df = pd.read_csv("../ball_pivoting/bpa_data/plane3_triangle_point_ids.csv")
 #df = pd.DataFrame(data)
 
 # 指定保存的文件名
-file_name = '../ball_pivoting/bpa_data/area_gene.txt'
+file_name = '../ball_pivoting/bpa_data/plane3_area_gene.txt'
 
 # 将DataFrame的每行转换为指定格式的字符串并保存到txt文件
 with open(file_name, 'w') as file:
