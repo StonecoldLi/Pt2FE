@@ -3115,7 +3115,12 @@ amesh,all
 lsel,s,loc,y,-3.0447416310000004
 lsel,a,loc,y,3.409006357
 !lglue,allsel
-dl,,all,all
+!dl,all,,all
+dl,all,,uy,0
+dl,all,,uz,0
+dl,all,,rotx,0
+dl,all,,roty,0
+dl,all,,rotz,0
 
 /solu
 acel,,,9.8
