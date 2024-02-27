@@ -66,3 +66,6 @@
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/ansys_model_after_meshing.png#pic_center)
  - Comparison between the model after calculation & the former one:
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/ansys_all_result.png#pic_center)
+
+
+## By this, we finish the Pt2FE model_v1
