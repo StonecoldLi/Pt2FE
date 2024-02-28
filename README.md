@@ -69,3 +69,8 @@
 
 
 ## By this, we finish the Pt2FE model_v1
+
+### 2024/2/28
+- we can add the beam section into our model, like the following shows:
+![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/add_beam_0.png#pic_center)
+![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/add_beam_1.png#pic_center)

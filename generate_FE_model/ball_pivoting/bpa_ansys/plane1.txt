@@ -947,7 +947,7 @@ mp,ex,1,2.06e11
 mp,prxy,1,0.3
 mp,dens,1,7850
 
-r,1,0.02 !厚度
+r,1,0.5 !厚度
 
 !赋予属性
 asel,all
@@ -968,7 +968,7 @@ lsel,s,loc,z,0.01966358908
 dl,all,,all
 
 /solu
-acel,,9.8
+acel,,,9.8
 solve
 
 /post1
