@@ -74,3 +74,11 @@
 - we can add the beam section into our model, like the following shows:
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/add_beam_0.png#pic_center)
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/add_beam_1.png#pic_center)
+
+### 2024/2/29
+- In addition, we can cpoy the single part into several parts to combine into a real status, here is what we got.
+![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/8kua.png#pic_center)  
+![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/8kua_2.png#pic_center)  
+![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/8kua_fu.png#pic_center)
+
+- P.S. : the hardware that I use in this project is MSI-z790+intel 13700kf+Nvidia 4060ti(16g). Also gpu is useless in this work, but somehow, a single run with in ansys would cost about 10 min.
