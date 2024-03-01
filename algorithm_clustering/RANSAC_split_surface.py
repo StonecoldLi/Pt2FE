@@ -2,17 +2,17 @@ import open3d as o3d
 import numpy as np
 
 # ------------------------------------读取点云---------------------------------------
-pcd = o3d.io.read_point_cloud("data_e6_b.pcd")
+pcd = o3d.io.read_point_cloud("../kua1_data/data_e6_b.pcd")
 # ------------------------------------参数设置---------------------------------------
 segment = []    # 存储分割结果的容器
 min_num = 5000  # 每个分割平面所需的最小点数
-dist = 0.1      # Ransac分割的距离阈值
+dist = 1      # Ransac分割的距离阈值
 iters = 0       # 用于统计迭代次数，非待设置参数
 # -----------------------------------分割多个平面-------------------------------------
 while len(pcd.points) > min_num:
-    plane_model, inliers = pcd.segment_plane(distance_threshold=0.1,
-                                             ransac_n=10,
-                                             num_iterations=100)
+    plane_model, inliers = pcd.segment_plane(distance_threshold=1,
+                                             ransac_n=3,
+                                             num_iterations=10000)
     plane_cloud = pcd.select_by_index(inliers)       # 分割出的平面点云
     r_color = np.random.uniform(0, 1, (1, 3))        # 平面点云随机赋色
     plane_cloud.paint_uniform_color([r_color[:, 0], r_color[:, 1], r_color[:, 2]])

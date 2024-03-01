@@ -5,6 +5,9 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
 def assign_points_to_planes(points, plane_models):
+    '''
+    接收一个点集和平面模型，计算每个点到若干平面的距离，并将点分配给最近的平面
+    '''
     num_planes = len(plane_models)
     num_points = points.shape[0]
     distances = np.zeros((num_points, num_planes))
@@ -16,6 +19,11 @@ def assign_points_to_planes(points, plane_models):
     return assignments
 
 def fit_plane_PCA(points):
+    '''
+    主成分分析(PCA)来拟合给定点集的平面。
+    PCA可以找到数据中的主要方向，并通过最后一个主成分(即数据方差最小的方向)来确定平面的法向量。
+
+    '''
     pca = PCA(n_components=3)
     pca.fit(points)
     normal = pca.components_[-1]
@@ -24,6 +32,9 @@ def fit_plane_PCA(points):
     return np.append(normal, d)
 
 def initialize_planes_with_kmeans(points, num_planes):
+    '''
+    使用K-means聚类算法初始化平面模型。每个聚类初始化一个平面
+    '''
     kmeans = KMeans(n_clusters=num_planes, random_state=42).fit(points)
     labels = kmeans.labels_
     initial_planes = []
@@ -34,6 +45,9 @@ def initialize_planes_with_kmeans(points, num_planes):
     return initial_planes
 
 def refine_planes(points, initial_planes, max_iterations=100, tolerance=1e-4):
+    '''
+    此函数接收初始平面模型，并迭代地重新分配点到最近的平面，然后根据新分配的点重新拟合每个平面。
+    '''
     plane_models = initial_planes
     assignments = np.zeros(points.shape[0], dtype=int)
     previous_error = np.inf

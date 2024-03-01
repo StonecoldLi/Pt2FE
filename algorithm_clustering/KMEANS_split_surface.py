@@ -103,7 +103,7 @@ class Kmeans(object):
 
 if __name__ == "__main__":
     #  加载点云
-    pcd = o3d.io.read_point_cloud('data_e6_b.pcd')
+    pcd = o3d.io.read_point_cloud('../kua1_data/data_e6_b.pcd')
     points = np.asarray(pcd.points)
     o3d.visualization.draw_geometries([pcd], window_name="可视化原始点云",
                                       width=800, height=800, left=50, top=50,
