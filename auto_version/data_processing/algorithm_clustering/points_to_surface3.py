@@ -75,17 +75,17 @@ def refine_planes(points, initial_planes, max_iterations=100, tolerance=1e-4):
 def plot_points_by_group(points, assignments):
     fig = plt.figure()
     ax = fig.add_subplot(111, projection='3d')
-    colors = ['r', 'g', 'b','orange','purple','black']
+    colors = ['r', 'g', 'b']
     for i in range(3):
         ax.scatter(points[assignments == i, 0], points[assignments == i, 1], points[assignments == i, 2], color=colors[i])
     plt.show()
 
 # Example usage (Assuming `points_sample` is your points data)
-#points_sample = np.loadtxt('./plane_data_e6.txt') # Replace this with your actual data
-points_sample = np.loadtxt('../rotated_data/rotated_e6.txt')
-initial_planes = initialize_planes_with_kmeans(points_sample, 3)
-refined_planes, refined_assignments = refine_planes(points_sample, initial_planes)
-print(refined_planes)
+# points_sample = np.loadtxt('./plane_data_e6.txt') # Replace this with your actual data
+# points_sample = np.loadtxt('../rotated_data/rotated_e6.txt')
+# initial_planes = initialize_planes_with_kmeans(points_sample, 3)
+# refined_planes, refined_assignments = refine_planes(points_sample, initial_planes)
+# print(refined_planes)
 #print(refined_assignments)
 
 #将assignment结果存入.csv文件中
@@ -99,5 +99,5 @@ df.to_csv("data_e6_clu.csv", index=False)
 '''
 #ass_series.to_csv(csv_file, index=False)
 
-plot_points_by_group(points_sample, refined_assignments)
+#plot_points_by_group(points_sample, refined_assignments)
 
