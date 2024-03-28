@@ -17,8 +17,8 @@ def fit_plane_to_points(points):
     points_centered = points - points_mean
     
     # Use SVD to find the direction vector of the smallest principal component
-    _, _, vh = svd(points_centered, full_matrices=False)
-    normal_vector = vh[2, :]
+    _, _, vh = svd(points_centered, full_matrices=True)
+    normal_vector = vh[-1, :]
     
     # The plane passes through the mean point, so we can find D
     D = -np.dot(normal_vector, points_mean)

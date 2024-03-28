@@ -1,14 +1,20 @@
 import open3d as o3d
 
-def visualize_pcd(file_path):
+def visualize_pcds(file_paths):
     """
-    Visualize a PCD file using the Open3D library.
+    Visualize multiple PCD files in a single window using the Open3D library.
 
     Parameters:
-    - file_path: str, the path to the ASCII-encoded .pcd file.
+    - file_paths: list of str, the paths to the ASCII-encoded .pcd files.
     """
-    # Load the point cloud
-    pcd = o3d.io.read_point_cloud(file_path)
+    # Initialize an empty list to hold the point cloud objects
+    pcds = []
+    
+    # Load each point cloud and add it to the list
+    for file_path in file_paths:
+        pcd = o3d.io.read_point_cloud(file_path)
+        pcds.append(pcd)
+    
+    # Visualize all the point clouds together
+    o3d.visualization.draw_geometries(pcds)
 
-    # Visualize the point cloud
-    o3d.visualization.draw_geometries([pcd])

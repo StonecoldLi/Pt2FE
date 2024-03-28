@@ -47,26 +47,26 @@ def plot_planes_and_line(plane1, plane2, line_direction, point_on_line):
     ax.set_zlabel('Z')
     plt.show()
 
-# # Example plane coefficients
-# plane1 = [1.53677273e-04, -9.50453435e-01,  3.10866924e-01,  3.23398910e+00]
-# plane2 = [-3.49946945e-12, -2.20672290e-12,  1.00000000e+00, -1.96635929e-02]
-# plane3 = [1.13386453e-06, -9.47393334e-01, -3.20071664e-01, -2.87827417e+00]
+# Example plane coefficients
+plane1 = [1.53677273e-04, -9.50453435e-01,  3.10866924e-01,  3.23398910e+00]
+plane2 = [-3.49946945e-12, -2.20672290e-12,  1.00000000e+00, -1.96635929e-02]
+plane3 = [1.13386453e-06, -9.47393334e-01, -3.20071664e-01, -2.87827417e+00]
 
-# # direction = cross_product(np.array(plane3[:3]), np.array(plane2[:3]))
-# # point_on_line = find_intersection_point(plane3, plane2, direction)
+# direction = cross_product(np.array(plane3[:3]), np.array(plane2[:3]))
+# point_on_line = find_intersection_point(plane3, plane2, direction)
 
-# # plot_planes_and_line(plane3, plane2, direction, point_on_line)
+# plot_planes_and_line(plane3, plane2, direction, point_on_line)
 
-# #surface1 & surface2
-# direction1 = cross_product(np.array(plane1[:3]), np.array(plane2[:3]))
-# point_on_line1 = find_intersection_point(plane1, plane2, direction1)
-# print("平面1和平面2的交线方向向量：",direction1)
-# print("平面1和平面2的交线上的一点：",point_on_line1)
-# plot_planes_and_line(plane1, plane2, direction1, point_on_line1)
+#surface1 & surface2
+direction1 = cross_product(np.array(plane1[:3]), np.array(plane2[:3]))
+point_on_line1 = find_intersection_point(plane1, plane2, direction1)
+print("平面1和平面2的交线方向向量：",direction1)
+print("平面1和平面2的交线上的一点：",point_on_line1)
+plot_planes_and_line(plane1, plane2, direction1, point_on_line1)
 
-# #surface2 & surface3
-# direction3 = cross_product(np.array(plane3[:3]), np.array(plane2[:3]))
-# point_on_line3 = find_intersection_point(plane3, plane2, direction3)
-# print("平面3和平面2的交线方向向量：",direction3)
-# print("平面3和平面2的交线上的一点：",point_on_line3)
-# plot_planes_and_line(plane3, plane2, direction3, point_on_line3)
+#surface2 & surface3
+direction3 = cross_product(np.array(plane3[:3]), np.array(plane2[:3]))
+point_on_line3 = find_intersection_point(plane3, plane2, direction3)
+print("平面3和平面2的交线方向向量：",direction3)
+print("平面3和平面2的交线上的一点：",point_on_line3)
+plot_planes_and_line(plane3, plane2, direction3, point_on_line3)

@@ -82,3 +82,6 @@
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/demo_version1/pictures/8kua_fu.png#pic_center)
 
 - P.S. : the hardware that I use in this project is MSI-z790+intel 13700kf+Nvidia 4060ti(16g). Also gpu is useless in this work, but somehow, a single run with in ansys would cost about 10 min.
+
+
+## Now, I am going to write an automatic version. (Starts from 2024/3/28)
