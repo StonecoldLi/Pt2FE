@@ -2,7 +2,7 @@ import open3d as o3d
 import numpy as np
 import pandas as pd
 
-def slice_and_save_point_clouds(pcd, direction, slice_distance, gap_distance):
+def slice_and_save_point_clouds(pcd, direction, slice_distance, gap_distance, output_path_pcd, output_path_csv, flag):
     # 将点云转换为NumPy数组
     points = np.asarray(pcd.points)
     
@@ -45,7 +45,7 @@ def slice_and_save_point_clouds(pcd, direction, slice_distance, gap_distance):
             # 创建新的点云对象并保存当前切片
             slice_pcd = o3d.geometry.PointCloud()
             slice_pcd.points = o3d.utility.Vector3dVector(adjusted_slice_points)
-            file_name = f"./data_slicing/plane3_org/slice_{slice_index}.pcd"
+            file_name = output_path_pcd + f"/slice_{slice_index}.pcd"
             o3d.io.write_point_cloud(file_name, slice_pcd)
             print(f"Saved slice to {file_name}")
         
@@ -56,8 +56,8 @@ def slice_and_save_point_clouds(pcd, direction, slice_distance, gap_distance):
         current_slice_start += slice_distance
     
     # 保存记录点所属切片和移动后位置的DataFrame到CSV
-    points_info.to_csv("./data_slicing/points_slice_info_plane3.csv", index=False)
-    points_info[['Adjusted_X', 'Adjusted_Y', 'Adjusted_Z']].to_csv("./data_slicing/points_adjusted_positions_plane3.csv", index=False)
+    points_info.to_csv(output_path_csv + f"/points_slice_info_plane{flag}.csv", index=False)
+    points_info[['Adjusted_X', 'Adjusted_Y', 'Adjusted_Z']].to_csv(output_path_csv + f"/points_adjusted_positions_plane{flag}.csv", index=False)
 
 # 读取点云
 #pcd = o3d.io.read_point_cloud("plane3_data_b.pcd")

@@ -1,4 +1,3 @@
-'''
 import pandas as pd
 import os
 
@@ -22,9 +21,9 @@ def process_csv_files(folder_path):
             print(f"Processed and saved {file_path}")
 
 # 示例用法
-input_folder = 'plane3_split/info/'  # 指定需要处理的文件夹路径
-process_csv_files(input_folder)
-'''
+#input_folder = 'plane3_split/info/'  # 指定需要处理的文件夹路径
+#process_csv_files(input_folder)
+
 
 
 import pandas as pd
@@ -72,10 +71,10 @@ def update_target_with_p(folder_path, target_csv_path, flag=0):
     print(f"Updated target CSV at {target_csv_path}")
 
 # 文件夹路径和目标CSV文件路径
-folder_path = './plane3_split/info'  # 替换为实际的文件夹路径
-target_csv_path = 'plane3_adjust1.csv'  # 替换为实际的目标CSV文件路径
+#folder_path = './plane3_split/info'  # 替换为实际的文件夹路径
+#target_csv_path = 'plane3_adjust1.csv'  # 替换为实际的目标CSV文件路径
 
-update_target_with_p(folder_path, target_csv_path)
+#update_target_with_p(folder_path, target_csv_path)
 
 '''
 plane2 应比较 Adjust_X & Adjust_Z

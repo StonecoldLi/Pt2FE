@@ -1,0 +1,14 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 64
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 64
+DATA binary
+_¶B–Œ@~5AÜ¿BLŒ@~1A¬ñB
+@~ÛAÒ¢B…ŒŒ@~9A8£BÞØŒ@~•A¦¸B¨@~éAˆÏBpûŒ@~åAíóBõ@~åA®yB¬@~A{B+„Ž@~AÖ“B”îŽ@~¥Ad˜Bcå@~IAÏœBàG@~EAÿ­BtR@~WAl¶BÀ”Ž@~9Að¶BÀŽ@~WA×·B<¼@~õAÞ·B@L@~SA¦»Bû@~QARÈBß¥Ž@~aA¸ãBtô@~gAcèB
+ú@~gA0íB _@~cAAöB×—@»ArÿB"@~A4BÓÇ@~A“Bsg@~_A–BñÁ@~AÎBÓÁ@~Aš$BPAŽ@~ÅA#)BýÌ@~A<,Bhç@~9Ah,B4Ž@~kA—,B_{@~…AŸ,BÇ,@»AÆ2BX‹@~¯A_7B‡A@~QAEEB¾@­AÝIBðF@~OAqNBÞ¯@}Að€BêÞŽ@~ËA ŠBÉG@~[AQ¢BÆRŽ@~	Af¢Boè@~qA›¥B@ð@~SAr¦B5m@~›AýªB¥;@~SAÞÁBð&@~¥A¼ØB®@~AëBo)@~ËA´øBµ@@uA1BSö@~kA4‡B‘@~A¶BpQ‘@~eAmºBî•‘@~ËA.B5©@~YA`,B¤@~}A\1B$£‘@~áAÁŽBß²@~A7¢BÄ†‘@~ËA:¢B%¯@~™AFÝBy@}3AïáB{‘@~ÁAœB¢š@~_A

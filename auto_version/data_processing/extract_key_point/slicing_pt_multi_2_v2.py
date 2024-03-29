@@ -54,10 +54,10 @@ def process_folder(input_folder, direction, slice_distance, gap_distance, output
         slice_save_and_add_gap_to_point_cloud(pcd, direction, slice_distance, gap_distance, output_folder, file_prefix)
 
 # 示例用法
-input_folder = './data_slicing/plane3_org'  # 输入文件夹路径
-output_folder = './data_slicing/plane3_split'  # 输出文件夹路径
-direction = np.array([0, 0, 1])  # 切片方向
-slice_distance = 0.5  # 切片间距
-gap_distance = 1  # 切片间隙
+#input_folder = './data_slicing/plane3_org'  # 输入文件夹路径
+#output_folder = './data_slicing/plane3_split'  # 输出文件夹路径
+#direction = np.array([0, 0, 1])  # 切片方向
+#slice_distance = 0.5  # 切片间距
+#gap_distance = 1  # 切片间隙
 
-process_folder(input_folder, direction, slice_distance, gap_distance, output_folder)
+#process_folder(input_folder, direction, slice_distance, gap_distance, output_folder)
