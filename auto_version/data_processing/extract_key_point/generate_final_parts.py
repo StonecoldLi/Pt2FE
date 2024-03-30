@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import open3d as o3d
 
-def save_groups_to_pcd(csv_file_path):
+def save_groups_to_pcd(csv_file_path, output_path):
     # 读取CSV文件
     df = pd.read_csv(csv_file_path)
     
@@ -18,10 +18,10 @@ def save_groups_to_pcd(csv_file_path):
         pcd.points = o3d.utility.Vector3dVector(points)
         
         # 保存点云到PCD文件
-        pcd_file_name = f"./plane3_fin/points_group_{a}_{b}.pcd"
+        pcd_file_name = output_path + f"/points_group_{a}_{b}.pcd"
         o3d.io.write_point_cloud(pcd_file_name, pcd)
         print(f"Saved {pcd_file_name} with {len(points)} points.")
 
 # 示例用法
-csv_file_path = 'file_fin_plane3.csv'  # 替换为实际的文件路径
-save_groups_to_pcd(csv_file_path)
+#csv_file_path = 'file_fin_plane3.csv'  # 替换为实际的文件路径
+#save_groups_to_pcd(csv_file_path)

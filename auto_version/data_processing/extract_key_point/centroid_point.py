@@ -31,9 +31,9 @@ def calculate_centroids_and_save(input_folder, output_file):
     print(f"Saved centroid point cloud to {output_file}")
 
 
-input_folder = 'plane3_fin'  # 指向含有.pcd文件的文件夹
-output_file = 'plane3_centroids.pcd'  # 质心点云将被保存到这个文件
+#input_folder = 'plane3_fin'  # 指向含有.pcd文件的文件夹
+#output_file = 'plane3_centroids.pcd'  # 质心点云将被保存到这个文件
 
 # 计算质心并保存
-calculate_centroids_and_save(input_folder, output_file)
+#calculate_centroids_and_save(input_folder, output_file)
 

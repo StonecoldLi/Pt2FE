@@ -1,0 +1,12 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 12
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 12
+DATA binary
+î¹¼Ò¯¿mä¿:DË¼·E¥¿Ö×:RCÅ»ßoº¿pûÿ:Øi¹„Ÿ¿mä¿:¥õ«¸‘×µ¿pûÿ:‚EH9ÒX¹¿õù;üVë=BÐŸ¿l8¼ïoð==,¨¿]0¼A˜¼â’¿ÅÍÿ9ú¶9ZØ“¿Ö×:ë:ô=žœ—¿l8¼˜n>ºŒ¿Öÿ‹=

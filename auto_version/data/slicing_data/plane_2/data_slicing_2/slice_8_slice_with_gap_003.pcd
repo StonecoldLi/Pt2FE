@@ -1,0 +1,16 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 115
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 115
+DATA binary
+ч≥9A╧Эdюс⌠@┘Л:AGхdюсJ⌠@bJ;AЮRcюр╕⌠@иР;AЙпdюсФ▓@<б<A#/dюрz⌠@╘=AТ┴dюр~⌠@fu=A©adюр~⌠@⌡>AыAcют╝⌠@и╚?AЕ√dюр├⌠@dq@A╓иdюс"⌠@йZ9A╣Чnют┌║@ j9A╩°oюс╒╒@j}9A╡└iюр @я∙9A≈jюс╬⌡@ ╟9A.!lюр╤²@Не9A√Кhюсн≤@fг9A╢╝oюсз╒@╝Д9A!█kюс╒°@:Aiюс:≥@П:AT8mюрB÷@:A╓PlюрН²@≈:Aя▒jюрV⌡@':AR°kюр²@│S:ASлkюрF²@&u:A}≤kюр²@ww:AoClют╨²@▓w:A1_mюс╡÷@ry:AГДiюр~ @A╬:AпЁmюрН÷@Аб:AМтhюр ≤@Щд:A,└kюр²@Зк:A┌Ъhюс:≥@╡т:AПАnюс├║@─Ф:AV~jюсZ⌡@еЙ:A┤iюс≥@ЗЙ:ALkюс╒°@ПП:AB^lюр*·@яЩ:AQ├iюрч≥@⌠Ч:A╪nюс╨║@;AHБnюс├║@²;Aщрhюсj≤@v1;A(iiюр╙≥@EX;Ah≈iюрF @}w;A║ьkюсN²@─▀;AGiюр╕≥@╣;AxEnюсз═@ль;A⌠hюсj≤@Ф;A≈дhюрр≤@<AЬ▌iюрБ≥@#<A═╔jютй⌡@┴ <A woютv╒@Ё+<Acflюсf·@>.<AGйhюр
+≥@'7<A)Кnюрф║@≤_<A1Тkюс╬²@f<A╕lюр6·@"r<A
+mютJ÷@ь░<A┼фiюс├ @ь▓<AaiюрБ≥@'╨<AЪ mюр÷@╢а<A█⌠oюр╤╒@Pб<AmиkюрR²@╓б<A·hюрn≤@Ёб<AcFlюс2·@Юг<A{║nюр▌║@2р<A═lmюсб÷@чЖ<A/qoюс╡╒@7Э<AПэiюрR @И=A\ЭhюрB≥@	&=AU├nюр▌║@╚G=AyYlюр6·@щY=Aзrhют:≤@Йp=A╒lют▓²@Цx=Ad╠nюс√║@g▌=A▓!jюрб @Зу=AIjюсЗ @(П=A7ЗlюсЙ·@Ч7>A╧еnют·║@$F>A÷=lюс>·@L^>A<iiюс┌≥@Чo>Axalюс
+·@Х√>Aq╚mюрB═@7≥>A÷!hюр
+≤@F >Aюujют:⌡@J⌡>AdVoюрR╒@╔>A÷кnюр╒║@й╔>AglюрB·@2╟>AЁ░nютf║@К╩>A╞}nюс.║@\С>A>iюр≥@)?AЧiюрb @h^?A%!hюр≤@tz?Aл iюр* @/└?AJМiюсf @ ▓?AЭ=oюс^╒@Q⌡?Aя╞jюрz⌡@D╗?Ad=iюр┼≥@A╙?A╘mюсj÷@Й╣?A*■mюр╙÷@╒Я?A╜ЭlюрЧ·@HР?AшАjюсЙ⌡@nУ?A4Сkюр╕²@E@AЧJoют·╒@ьM@A└╨jюсЙ⌡@╛U@AC∙jюсJ⌡@▒p@A≤jюр~⌡@r@AU-iюсZ≥@ьs@Ac{lюс"·@cx@A▓╝nюр╤║@R|@AC;jют⌡@A²@Aх╣lюс^·@vК@AК▒iют @ДЩ@Aямmюр*═@дAA	kюс.°@≤-AA$Оkюр~²@

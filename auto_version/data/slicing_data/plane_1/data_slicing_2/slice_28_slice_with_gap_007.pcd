@@ -1,0 +1,15 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 183
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 183
+DATA binary
+!ø&B˜iAª}s=ü&BOÅAA~o=Ðý&B›rAË}y=ïÿ&Ba„Aí¾Š=Á'BYçAÜ¾‡='BàQAH~}=’'BÆ¾Aí¾Š=]'BàŒAª}s=µ'Bb?Aæ}q=½'BîuAí}=³'Bä¤Aæ}q=…'Bó²AT¿„=Š'BA¿‚=L'B|4A:~a="'B‘šA¢~{=D'B}AÜ¾‡=È'B!OAD¿=~ 'Bf5AË}y=S!'BLEAË}y=Ù%'Bä…Aí}=¸&'BbAé¾ƒ=.*'BöA8¿ˆ=>+'B¡#A8¿ˆ=2-'B
+ØA.¿“=t3'B®MA¿‚=[4'Bl!AÜ¾‡=75'Bà¯Aí¾Š=(6'BÁîAí}=à6'BxA¢~{=Ñ7'BA˜A~i=m<'B_4A8¿ˆ=p<'BNJAb~u=<'BºÉAb~u=?'BmA	¿†=Ö@'B	7A}~m=vE'B{A¿‰=dF'BðfA¢~{=$I'B\>A¢~{=ÞJ'B¦ºAA~o=O'BÐíAØ¾€=\S'BäAT¿„=#V'BùA	¿†=·W'Bâ9A¢~{=ˆX'BrÛAA~o=]'BžqAH~}=Ec'BÖ^A+¿Œ=d'BGAí}=Ëe'B!þAD¿=eg'B)ÎAØ¾€=fh'BvõA”~_=tn'B•kA¿‰=Ko'B9AD¿=<p'BÍÌAD¿=pv'B6îAD¿=½z'B¢A+¿Œ=­{'B÷OA	¿†=T}'BnAH~}=D~'B8•A[~g='BœüAT¿„=m‚'B1lAË}y="„'B\>A'¿…=œ†'B“%A	¿†=Œ'BeAí}=‚Ž'B"XAÜ¾‡='BÉhAb~u=¯’'BÇÆA¢~{=ô–'B°ÛAD¿=ª˜'B„„A¢~{=Oš'BH¥AË}y= 'B+ÓA	¿†=¤¡'Bh6Aé¾ƒ=y¢'BŠA	¿†=h£'BXAí¾Š=7¥'Bá²Aí}=o¨'B¸ÌA&~w=¯ª'Bæ&AÜ¾‡=&­'B\AË}y=Ý®'B˜OA¿‚=:²'B_­Ab~u=<²'BèjAý¾=W²'BÏ%AÜ¾‡=\²'BˆwAé¾ƒ=‚¶'B-AØ¾€=¾'B5)Aí}=·¿'B A¢~{=Â'B_AH~}=ÃÇ'BœVAé¾ƒ=ŽÈ'B÷¢Aí}=^É'B£&Aí¾Š=<Ê'B/žAH~}=¼Ì'BA±A+¿Œ=Ñ'B.”AD¿=ùÑ'B…MA¿‚=£Ó'B¢Aª}s=Ö'BRòAæ}q=äÚ'Bd1AT¿„=‹Ý'B(
+Aª}s=‚Þ'B4äAØ¾€=æà'B×~Ab~u=Zè'B0ÄAÄ}k=]ì'B†ÆA¿‚=î'B^hAË}y=Ìî'B?Aª}s=úó'B²tA¢~{=Ðõ'B–<Aí}=¨ö'Bi$Aí¾Š=Íþ'BB*AÜ¾‡=¥(B%A+¿Œ=—	(B¹.Aí¾Š=²(B|Aé¾ƒ=t(BÕÒAÜ¾‡=ê(BøAí¾Š=Ê(BšhAí}=d(B‡AË}y=8%(B—WAH~}=™'(BJÜAË}y=/((BýÃAé¾ƒ=7((B‹€Aé¾ƒ=:((B‡‡A¿‚=?((BsfA¿”=|*(BCÖA8¿ˆ=Ö,(B´AË}y=’3(Br&Aæ}q=È>(B(A¿‚=ƒ?(BÊ5A	¿†=A(B7‰Aæ¾œ=D(BP[A8¿ˆ=tF(BºiA8¿ˆ=;G(BÛgA¿‚=ùG(Bá´AH~}=ËH(BöAb~u=tL(B‰AH~}=ÚM(BõsAD¿=©V(B§A.¿“=´X(BÊoA	¿†=è^(BfAH~}=sc(Bƒ#Aý¾=Ëg(B·EAæ}q=ði(BƒVAí}={p(BÆ`Aí¾Š=vs(BÃ¹AØ¾€=‰u(BêAí}==x(BâRA	¿†=¹y(B°nAí¾Š=æ|(B!aA÷¾Ÿ=>~(B–A¢~{=Ò€(BÿøAT¿„=Æ†(B’RAí}=W‰(BÚ‰A¢~{=ó‰(BÇýAË}y=‹(B|mAË}y=É‹(B\Aí}=¹(B{A¿›=^Ž(BF-AA~o=»“(B€ÈAÜ¾‡=Y”(BœÐAË}y=*•(BëóAD¿=t˜(BÛOAD¿=ð(BõuAã¾•=ô(B¢A¿‰=ù(BÜ™AÜ¾‡=ž(B5)A'¿…=|¥(BÓTAé¾ƒ=é¨(BCâA&~w=Òª(B
+(AØ¾€=+¬(B‰ŸAË}y=^°(B\©AH~}=è³(BFiA'¿…=5·(Bä\AT¿„=¸(B1OA'¿…=DÅ(B \AD¿=×Å(B;[A.¿“=‚Æ(B…ÆAæ}q=,Ç(BŽuA¿‚=×Ð(Bå¸AT¿„=ÔÕ(B*ºA¿‰=ªÙ(BçAé¾ƒ=ÌÚ(B„AÜ¾‡=Þ(BôAÜ¾‡=îß(B•GAb~u=Lí(BèoAÜ¾‡=×í(B:gA8¿ˆ=”ñ(BûAé¾ƒ=

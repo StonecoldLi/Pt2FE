@@ -1,0 +1,13 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 232
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 232
+DATA binary
+¨ù,Bð¶@H~}=è-BÖñŠ@é¾ƒ=$-BŽŒ@í¾Š=|-B, Š@~i=!-Bh†@'¿…=Æ-Bð^Ž@	¿†=Ñ-BP@&~w=¯-B‚X‰@¿‚=$-BGV‹@Ä}k=ˆ-B¨mŒ@~i=x-B¢Š@!¿—=d-BÅ‹@!¿—=ê-BS@.¿“=] -Bó‘@D¿=,"-Bž¨‰@í¾Š=+-BŒ@Ä}k=¤--Bù>Œ@	¿†={0-BtŠ‹@'¿…=^2-Bx‰@Ø¾€=”5-B_z‰@'¿…=bD-B]©Ž@:~a=£E-Bî¿@é¾ƒ=®L-Bž–@Ä}k=ÁW-BäŽ@D¿=[-BXËŽ@8¿ˆ=Ÿ[-B,Ž@D¿=é\-B’÷Ž@<¿=^-Být@é¾ƒ=º^-B…MŒ@í}=#g-BqgŒ@'¿…="k-BÛ%@A~o=^l-Bc³ˆ@í}=m-BR¦Š@T¿„=*r-B.Ô@b~u=ºr-BŽŒ@Ë}y=Ût-BáyŽ@8¿ˆ=†u-B¤¦Š@í¾Š=Öv-B½à‹@+¿Œ=w-B‹@ð¾‘=|-Bõ=Œ@Ï¾‹=I-BòÐŽ@&~w=Ò†-B9}‰@é¾ƒ=™‰-BÞ÷Ž@¢~{=š‰-BÃˆ@Ø¾€=¬‰-BÜ,Œ@Ë}y=\Š-B+ßŒ@¿‚={Œ-B¶@¢~{="-B;â‰@ý¾=Ü-BëS‰@D¿=Ä“-B³@‹@'¿…=Ã™-BïŒ@	¿†=-B?ÖŒ@ý¾=Vž-B‘6Œ@é¾ƒ=\¤-B9‹@¢~{=O³-Bá@í}=´-BQ2@8¿ˆ=eµ-B‰|@Ë}y=,Ë-Bl@~i=™Î-BJ3Ž@¿‚=nÑ-BÈw@í¾Š=?×-B!“‹@¿=þ×-B’N‹@¿=¹Ø-B[¢ˆ@Ï¾‹=nã-BjQ@	¿†=Fè-BGŒ@à¾Ž=Rë-BñÉŒ@	¿†=wû-B\pŒ@A~o=sÿ-BhŽ@8¿ˆ=~ÿ-Bd¤‹@Ï¾‹=¬.B’=‰@é¾ƒ=2.BC€Ž@Ü¾‡=É	.Bô›Ž@Ë}y=.B).Œ@T¿„=¸.Bõã‹@T¿„=ÿ.Bª§ˆ@¿”=~.B:xŽ@D¿=,.B“Ô‹@+¿Œ=º$.Bá7‹@'¿…=§'.BKX@8¿ˆ=O/.Bt@¢~{=Ü4.Bîµ‹@¢~{=:.Bm‰@8¿ˆ=E.Búa‹@	¿†=O.B¦µˆ@8¿ˆ=jU.ByŽ@í¾Š=XZ.Bá@Ò¾’=fc.BôÞŒ@ð¾‘=,d.BŠ@¿=3l.BðŠ@¿‚=èm.BLª@Ü¾‡=o.B2@b~u=r.B˜R@D¿=Du.B«>Š@¿‰=eu.B}ÏŽ@¢~{=¬|.Bå@é¾ƒ=*.BùËŠ@à¾Ž=€‡.Bh­Ž@T¿„=÷.B-¿‹@N¿–=`.Bc@8¿ˆ=S‘.BïÉ@'¿…=¶—.BºŸ@'¿…=¶¨.B‘Ô‰@Ü¾‡=|Û.BÑ‹@T¿„=§ê.Bw±ˆ@¿‰=2ë.BâÛŒ@Ü¾‡=rë.Bu‚Ž@¢~{=…î.BÙ‹@¿‰=Dò.B3(‹@¿‚=‚ó,B¦—“@b~u="ô,B
+‘@à¾Ž=Îô,Bq@ã¾•=ù,B8Ø“@D¿={û,B×¥”@T¿„=ü,B –•@Ü¾‡=]ý,Bi”@ª}s=-B¯••@&~w=¶-B²@¿‚=Þ-Bp––@&~w=Í-BUÁ—@í¾Š=Z-Bsº”@æ}q=-BŒL˜@¿‚=-BtS˜@8¿ˆ=Ò-B€t”@	¿†=Ü-BÉJ—@	¿†=-B y”@¢~{=!-B¢Î‘@é¾ƒ=F#-B¶J‘@½}]=ð#-B®Æ–@H~}=6%-B™“@¢~{=|&-BPŽ“@í¾Š=À.-Bu•@¿‚=¬3-B{Ú”@Ü¾‡=?4-B`”@T¿„=Ë6-B¤E“@&~w=”>-B.ò•@D¿=KF-BNO˜@b~u=L-BG’@T¿„=ÄP-BCb˜@H~}=R-BŽ‘@í}=âS-BîÐ•@H~}=zX-Bºe”@'¿…=‰Z-B¦|–@¿‰=N\-B8•@8¿ˆ=`-BGè‘@b~u=†b-BNœ’@Ø}U=hd-B¤A@¿”=Äe-Bèv”@D¿=o-BÌ¤“@¢~{=(x-BO°—@ý¾=¤|-BÎ@”@¢~{="†-Bÿ>’@Ï¾‹=œ‰-BÒ˜@í¾Š=­‰-BÕ¾—@T¿„=Š-B‚H‘@'¿…=Ê-B9)@Ü¾‡=¾‘-BÚ;@é¾ƒ=)™-B(•@D¿=£Ÿ-B.f@H~}=£-Bv›’@í}=¥-BÄ¥–@Ï¾‹=ð¥-B:½”@8¿ˆ=X§-B€@b~u=x«-BÊÏ•@é¾ƒ=0±-B&“@Ø¾€=å¸-B–"‘@Ø¾€=¿Æ-BVÉ–@¿‰=0È-BA”@D¿=îÈ-B7Á@Ï¾‹=êË-B©•@ª}s=äÍ-Bˆh”@Ø¾€=¶Ý-B}“@é¾ƒ=¸â-BÅh‘@A~o=‡å-BˆU–@í}=Íô-B¬¶@D¿=ƒõ-B×@Ø¾€=:ö-Bˆÿ@Ë}y=Pù-Bþ”@Ø¾€=ú-Bì3“@í}=¾ú-Bõ=@¢~{=‡ý-B/¥@í}=ÿ-BW[“@í}=tÿ-Bzz—@	¿†=€ÿ-B‘‘@T¿„=ë.Bò¯‘@é¾ƒ=@.B€“@'¿…=[.Bf¿“@8¿ˆ=".B§Z”@¿‚=Ë.Bñ·‘@	¿†=&.Bf³@¢~{=ƒ+.BÏ•‘@<¿=à0.B\®–@¿‰=b2.BX’@&~w=Ä5.Bäë—@'¿…=Ô7.Bhè–@	¿†==.Bv‘@¢~{=K.B?©–@¿‚=.R.B‰š@	¿†=éR.Bê^˜@í¾Š=`.B0—@à¾Ž=0q.By“—@í}=Ku.Bß$“@é¾ƒ=Qu.Bf±•@8¿ˆ=¤w.Bß|•@	¿†=(z.B|´@¢~{=Ü€.B?€”@T¿„=œŠ.B~(“@T¿„=¨“.Bz•@é¾ƒ=V™.B7ã—@é¾ƒ=š.B÷­‘@&~w=Â¡.B´ð@D¿=S¦.Bb@¿‚=‚©.BóÆ@¿‚=­.BìO•@Ë}y=ð­.B™‘@Ø¾€=‹¯.BB@H~}=,².B¢ä—@D¿=ï².BlÏ”@'¿…=6¶.B†D•@	¿†=·.B ˜@à¾Ž=ç·.BTc”@¿‚=I¼.BŸc˜@à¾Ž=_Â.BdX’@Ë}y=˜Ç.BÚ™‘@Ü¾‡=ßÊ.Bö’@¿‰=¾Ì.Bñ„’@D¿=Þ.BË•@Ü¾‡=åÞ.Bi–@Ø¾€=âç.B’@í}=6ë.B¹™–@T¿„=:ë.B.«‘@¢~{=±í.BU3”@'¿…=5ð.BÀŸ•@¢~{=
