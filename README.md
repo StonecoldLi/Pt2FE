@@ -85,3 +85,5 @@
 
 
 ## Now, I am going to write an automatic version. (Starts from 2024/3/28)
+### 2024/4/2
+- First version of demo.ipynb has finished.
