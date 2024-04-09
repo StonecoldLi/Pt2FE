@@ -20,6 +20,6 @@ def merge_pcd_files(pcd_files_directory, output_pcd_file):
     print(f"Saved merged point cloud to {output_pcd_file}")
 
 # 示例用法
-pcd_files_directory = './centroid_5'  # 替换为你的.pcd文件所在的文件夹路径
-output_pcd_file = 'merged_centroid.pcd'  # 合并后的点云文件名及路径
-merge_pcd_files(pcd_files_directory, output_pcd_file)
+#pcd_files_directory = './centroid_5'  # 替换为你的.pcd文件所在的文件夹路径
+#output_pcd_file = 'merged_centroid.pcd'  # 合并后的点云文件名及路径
+#merge_pcd_files(pcd_files_directory, output_pcd_file)

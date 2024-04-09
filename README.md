@@ -85,3 +85,12 @@
 
 
 ## Now, I am going to write an automatic version. (Starts from 2024/3/28)
+### 2024/4/2 (v4.1)
+- First version of demo.ipynb has finished.
+
+### 2024/4/3 (v6)
+- We change the idea of the coordinate transformation step
+    - we use the PCA to find the main direction of the point clouds
+    - define which point in the org_data is going to move to the (0,0,0)
+    - Execute the transformation step with the above rules
+ 
