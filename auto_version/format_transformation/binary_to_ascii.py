@@ -15,4 +15,5 @@ def binary_to_ascii(filename, output_filename):
         o3d.io.write_point_cloud(output_filename, cloud_source, write_ascii=True)
 
 if __name__ == "__main__":
+    #binary_to_ascii("C:/Users/ADMIN/Desktop/org_jd_data/binary/jie5.pcd","C:/Users/ADMIN/Desktop/org_jd_data/binary/jie5_asc.pcd")
     binary_to_ascii()

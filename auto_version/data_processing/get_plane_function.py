@@ -12,6 +12,7 @@ def fit_plane_to_points(points):
     Returns:
     - A list [A, B, C, D] representing the plane's equation coefficients in the form AX + BY + CZ + D = 0.
     """
+    points = points.astype(np.float16)
     # Subtract the mean to find the principal components
     points_mean = points.mean(axis=0)
     points_centered = points - points_mean
@@ -51,6 +52,6 @@ def fit_planes_from_csv(csv_file_path):
     return planes
 
 # Example usage
-#csv_file_path = 'your_data.csv'  # Replace this with the path to your CSV file
+#csv_file_path = "../data/org_data/jie5_clu.csv"  # Replace this with the path to your CSV file
 #plane_coefficients = fit_planes_from_csv(csv_file_path)
 #print(plane_coefficients)

@@ -7,15 +7,15 @@ def load_pcd(filename):
         return None
     return cloud
 
-def main():
+def bin_to_asc():
     print("Hello, world!")
-    filename = "../generate_FE_model/data_merged/merge_data_cp_plane3.pcd"
+    filename = "C:/Users/ADMIN/Desktop/points_kua_Cloud_asc_2.pcd"
     cloud_source = load_pcd(filename)
     if cloud_source:
         print(f"PointCloud_source has: {len(cloud_source.points)} data points.")
 
-        output_filename = "../generate_FE_model/data_merged/merge_data_cp_plane3_asc.pcd"
+        output_filename = "C:/Users/ADMIN/Desktop/points_kua_Cloud_asc_2.pcd"
         o3d.io.write_point_cloud(output_filename, cloud_source, write_ascii=True)
 
 if __name__ == "__main__":
-    main()
+    bin_to_asc()

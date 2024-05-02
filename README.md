@@ -94,3 +94,6 @@
     - define which point in the org_data is going to move to the (0,0,0)
     - Execute the transformation step with the above rules
  
+ ### 2024/5/2
+ - After we went to the construction site on April 21st. We can try the new data after we collect the point cloud.
+ - Using the new data finished to Point Cloud Registration
