@@ -56,4 +56,4 @@ def fit_planes_from_csv_truc(csv_file_path):
     
     print(planes)
 
-fit_planes_from_csv_truc("../data/org_data/jie5_clu.csv")
+#fit_planes_from_csv_truc("../data/org_data/jie5_clu.csv")
