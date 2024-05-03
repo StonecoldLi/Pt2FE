@@ -1,0 +1,18 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 175
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 175
+DATA binary
+‚ÿÂb%™À·AY÷Âø
+™À*·A–ûÂG2™Àt*·A{ìÂü™ÀX'·AîÂ=™ÀÌ(·AóÂ2P™Àñ:·AuÿÂ|™Àj^·AsÿÂN™À{f·AîÂ@r™ÀO·A€ÞÂÚ@™ÀE*·ApÿÂÁ®™ÀD‹·AtÙÂ4™Àì)·AwÏÂ•™À¤·A#ÒÂv,™Àš ·AÈåÂ}™ÀT·AjÈÂª#™Àx·AìÐÂpL™À0;·AÛÝÂ¯y™ÀVT·A?ýÂKô™ÀˆÀ·AóÂ†Ù™ÀÞš·AóÂøá™À²£·AÞ¿Â[9™À\&·AR¿ÂZ8™À›8·A÷ÐÂ*s™ÀúU·AëëÂÍÌ™ÀÂ·AÑáÂ¯™ÀÜ€·AiÈÂ0a™À'C·A"ÕÂ¡™Àh\·AzþÂšÀÈÒ·AX÷Â$šÀŒ¾·A^ÿÂ#šÀÏ·A(ÖÂH ™À—s·AJ¢Â[™Àv·A¨¨ÂT™À·A!ÕÂ†¹™Àê‰·AÝÂÕØ™À›·ADÍÂL¦™À¦„·A™ÕÂ€Ã™À­£·AÎžÂ*™À$·ARáÂBû™ÀOµ·AÕÂ$ë™À—¢·AüšÂ2™Ài)·AêÂÙ9šÀéà·AÕÂû™Àh¿·A½ÉÂÖ™ÀÝ’·AëñÂÀ^šÀ¸AÏŠÂ—™ÀG ·AiòÂ“cšÀZ¸A3™Â¢>™ÀI(·A­ÌÂê™À¬¢·A³ÜÂH#šÀžÓ·A•ÂÐ7™Àö(·AZ»Â:Á™À‰·A9™ÂR™Àx:·AgûÂèššÀz0¸A¸®Â¤™ÀËm·A¿Â{™À·A‘ÂM™À1·Añ‡Â 3™À ·A1¿Â&ø™ÀQ«·Au–Â‰}™À0^·AèÐÂíDšÀ4é·AëÐÂîEšÀóü·Av²ÂZê™ÀÀ¬·Aú‡ÂF`™ÀBC·AL„Â%U™À::·AwÂ©™Àx‹·A»ÂPšÀŒÜ·A «Â
+ã™Àb­·A•jÂ6™À·A;~ÂU™ÀÝ;·AQªÂ¢è™Àp¶·AÎÂë^™ÀaC·A¡nÂè&™ÀM!·AWòÂÇášÀÚ[¸A*Â›À‰‡¸AeîÂãšÀ«[¸AžjÂp/™Àq ·AÒ×Â«›šÀÖ(¸AJ™Â­Í™À>‘·A²fÂp-™À.(·A£ûÂ›Àá‘¸A ÿÂu-›À¨—¸A€ÃÂ¸išÀœ¸A›ÝÂŸÁšÀ,N¸A3ÌÂ†ŠšÀö¸Az²ÂÊ8šÀÖ·A¬ÂM,šÀoä·A³ÜÂ¨ÒšÀ~R¸AƒåÂõšÀÈu¸AÊØÂ¿ËšÀ6S¸A
+ˆÂÂ™Àþˆ·AŽÂ;Ø™ÀO˜·AÇ}Âù¨™À…‚·AØèÂ]›ÀÞ”¸A'‘Â_ö™Àµ·A(YÂBC™ÀN(·A
+UÂ”7™À­)·ApéÂ›*›Àp“¸At]Â¹a™À7C·A>gÂ†™Àè_·AØaÂ«u™ÀôT·APÃÂ=ÁšÀ»J¸A±ÂjšÀrÅ·A¯åÂ}<›Àc¢¸A¦°ÂÞšÀ]9¸A¡ÔÂ¯›Àû¸AG£ÂÿišÀÙ%¸AÈLÂ^L™ÀA1·AöƒÂóšÀ#¾·A[ÇÂlåšÀÓd¸AÂ\Â&Š™Àòp·A^ªÂ
+ŒšÀ4(¸AÏLÂ_™Àr9·AaÂí¯™À¥}·AÅtÂ¡ü™ÀH¿·AcjÂÝ™À¤·AQÂšŠ™ÀÖ\·AJYÂä§™Àw·AK•Â¥ošÀ¨¸AÅ‹ÂSšÀ>ÿ·A-xÂšÀÖÊ·AQÂ ™Àqx·AŒÂ(ešÀÃ¸AŸ‰Â÷^šÀo¸A.[ÂdÌ™À·AáºÂ›ÀX¸AH{Ân;šÀü¸A5UÂÁ™À)·A·°Â›óšÀÌn¸ADÂ•™Àp·A£ÃÂ7›ÀÏ ¸A©Â äšÀã‚¸Ar®ÂZ÷šÀŒm¸AGJÂG²™À’…·A¦Â¯öšÀ¬m¸AW™ÂJÍšÀR[¸AbÂ†šÀ$â·A¶wÂ­bšÀÅ¸AˆÂ†šÀ…¸A‚|ÂC‰šÀê,¸A4†Â°šÀÔB¸AèAÂzÏ™ÀY·AtYÂÃ'šÀØ·ApÂ¥tšÀã¸Až™Â_›ÀVŸ¸AÁyÂe¨šÀ†D¸A™Â°›ÀÆ¡¸AÓ™ÂX›À
+†¸A"fÂvošÀQ¸A+ŒÂÚóšÀúm¸AdUÂ©EšÀDé·A—{Â_ËšÀ6S¸AEcÂæzšÀz6¸AïjÂÐœšÀL2¸AóBÂ:$šÀlÛ·A)“Âñ?›ÀD£¸A6bÂ<©šÀ.9¸A²jÂ}ÉšÀÞ_¸AÝ?Â¾=šÀ‹à·AïPÂnwšÀC¸AŸÂ‘›ÀÌ‘¸AžYÂŸšÀN:¸Aæ]Â=ÌšÀ^¸AOHÂÛšÀ~¸AšCÂ®šÀ|'¸A}DÂÚ™šÀž0¸A‚;ÂC„šÀ¸AÆcÂú#›Àœ¢¸Aþ]Â›À©‡¸A@Â¼šÀK¸A0bÂ¯<›Àþ¥¸AáSÂv›À`Ž¸AšDÂ/›ÀN€¸AåMÂc$›Àç˜¸A

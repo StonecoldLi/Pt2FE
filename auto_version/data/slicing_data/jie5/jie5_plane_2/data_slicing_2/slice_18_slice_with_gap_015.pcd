@@ -1,0 +1,17 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 167
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 167
+DATA binary
+6.ÂÄOÀ¼¿A3".Ât2ÀS¨A].Â¶GÀV½AÔ.Â°À’®Að".ÂŽÀCóA*.Â‘ÀVüAGø-ÂÀŠŸAÌ.ÂÅÀXèAïÿ-Â<Àf½A¸.ÂæŽÀçûA2.Â÷ùÀ¯N‘Aà).ÂûáÀm(‘A.Â°`À¬ÜAn.Â8}À£ûAÊ$.Âœ÷À;6‘AJä-Â˜3À‡œA´4.ÂÊH‘À”‚‘A¨	.ÂP¼Àƒ‘Azæ-ÂÙHÀÎ¶AÙô-ÂkzÀÎÙAo.ÂïÀx.‘A.Â£ÑÀ¬‘AŽÜ-ÂEÀ~ÀA'þ-ÂËµÀ›	‘A².ÂC/‘ÀPe‘AÐÒ-Â²3ÀR¡A£Ô-ÂN@À?ÀA¯
+.ÂgôÀe0‘AÁð-Â°Àï‘AÃ×-Â_cÀ¼¹AÔË-Â—?À¼¢AÌô-ÂúËÀL‘Auð-ÂÅ¾ÀD‘Añø-ÂcÜÀý6‘AÆÎ-Â´ZÀtÇAèü-ÂnôÀy5‘A‘.Âf‘Àpˆ‘Až&.ÂÂ‚‘À¥š‘AÈ	.Â¥(‘À¨c‘A£.Â„E‘ÀGl‘Aë..ÂÍ¬‘ÀqÉ‘A‚ü-Â¼‘ÀA=‘ASõ-ÂìñÀ¦8‘A.ÂX_‘À_’‘AÏó-ÂCþÀ©G‘A³2.ÂfÏ‘ÀúÐ‘A‰.Â³y‘ÀÈ‡‘AÑâ-ÂÑÀŸ+‘Ay.ÂW”‘À"·‘A*«-Â^À©ŸA-Ú-Â<ÀÀ±"‘AŽÖ-Âg¸À‘Aˆ¦-Â£À”ŸA†.Â|‘À.Š‘AÜ¯-ÂŽ@À³AN÷-Â`.‘Àa‘A	/.Â³ë‘À>ó‘A2.ÂÏŒ‘Àb¡‘A^Í-Âì´ÀßýAXÿ-Âv[‘Àû…‘Aý-ÂØÀW›Aw .Âƒß‘À(á‘A“Ì-ÂæÌÀn‘A1.ÂÖ’ÀR’Aã.ÂAÇ‘À´Î‘Aeõ-Â±V‘À+{‘A¯-ÂñmÀ>ÑAqá-Âæ‘ÀM‘AÌ²-Â—~ÀÒÒA .ÂÖÁ‘À6Î‘AÍõ-Â9f‘À‰‡‘AtÃ-ÂßÃÀ' ‘AZŽ-Â4ÀzŸAµ0.ÂŒ0’Às’A
+þ-Âœ‘Àõ§‘A;é-ÂG^‘À†ƒ‘A?·-Â@¼À\‘Aˆ¥-Âì„ÀØÓA®-Â¢ÀDïAYà-Â„N‘À§y‘A-‰-Â[.ÀG¦A_Ë-ÂY
+‘ÀuB‘Aç-Âi‘Àc‘‘Aª-Âº ÀOïAôð-ÂéŽ‘À…±‘ABš-Â²pÀ¨ÝA‰¦-ÂÙ›À·èA%‰-Â?ÀPÁA¿¤-Âe®À_‘A<Ï-Âõ>‘ÀTo‘A±-Â’âÀ%‘AÐÚ-ÂQw‘Àz“‘A,ô-ÂHÌ‘ÀCÊ‘Amü-Â¿í‘Àãå‘Aïà-Â¿“‘À¥‘A·Ã-Âï3‘Àƒ]‘AÚ.Â9_’À1’Aû¨-Â"ÝÀ|‘A!Ê-Â×K‘À©‘AÆï-Â÷É‘ÀÓÓ‘AÞ.ÂÛ’À0õ‘AL¹-Âl&‘À:R‘Aw-ÂkLÀÀA×¸-Âe'‘ÀƒQ‘AÎã-ÂRÍ‘ÀœÊ‘AY«-Â
+‘ÀQ‘A÷-ÂC’Àó’A•ÿ-Â19’ÀÓ$’AJ“-ÂƒÔÀø‘A˜—-ÂáäÀc"‘AçÈ-ÂŸŠ‘Àš‘A·ò-Âý’À—’A†þ-ÂÞ@’ÀÛ-’A%-Â°©Àµ÷A	Š-Â^ÈÀ`‘A”-Â/ãÀw‘A¢l-ÂÚvÀÈØAtÔ-ÂëÓ‘À>Ð‘A6…-Â›ÐÀ]‘AD¢-Â¥1‘ÀX‘A¢-ÂD<‘Àla‘Aà‡-ÂêÀ˜‘Ahð-ÂTF’À#’Auí-ÂÆ>’ÀØ’A_{-ÂOËÀP‘Abä-ÂÄ7’Àt’A]ä-Â~8’Àï!’Atp-Âp¼À‘AÝé-Â’S’ÀZ$’Avº-Â¼½‘ÀçÌ‘Aa‰-ÂÝ‘ÀqC‘AûÆ-ÂLî‘À"à‘APt-Â€áÀV‘AÚ-ÂA‘ÀV_‘Arx-ÂËôÀL1‘A8Œ-ÂB>‘Àè^‘A—Ê-ÂÚ’À4’A¶-ÂñÓ‘ÀfÚ‘A|-Â9‘ÀOL‘Acˆ-ÂuG‘Àïl‘AYo-Â3úÀ¥&‘Aº¬-ÂñÆ‘ÀÃ‘AõÍ-ÂO8’À†’Au‹-Â…d‘À&‡‘A,~-Â5:‘Àõa‘A½-Â¥’Ààù‘AŸƒ-ÂMY‘À‡y‘AY°-Âû‘Àªæ‘A>¸-ÂC*’Àà
+’Aé’-Â×º‘À‰Á‘Aom-Â­?‘Àlf‘A²¬-Â2’À{’A·˜-Â¤Ð‘À¯Ô‘Aìm-Â”G‘À™d‘AV~-Âc‰‘À~’‘A0v-Âxo‘ÀÔ‰‘Aíq-Âòb‘À®v‘A7Œ-ÂÀ‘ÀÂº‘Aõ-Âz²‘ÀYÀ‘A‡-Â[à‘ÀCÖ‘A€-ÂF-’Àý’AñŒ-ÂFø‘À^ã‘AÔr-Â9ê‘À¡á‘Ar‹-ÂŠ]’ÀA1’A/v-Â·’À!’A¼z-ÂèJ’ÀF’Aßp-Â_S’À’A

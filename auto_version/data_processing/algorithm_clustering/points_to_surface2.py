@@ -63,7 +63,7 @@ def initialize_planes_with_kmeans(points, num_planes):
 
 
 # Example usage
-points = np.loadtxt('./plane_data_e6.txt')  # Generate some random points
+points = np.loadtxt('../../data/rotated_data/jie5_rot_txt.txt',skiprows=1)  # Generate some random points
 initial_planes = initialize_planes_with_kmeans(points, num_planes=3)
 print(initial_planes)
 #num_planes = 3  # Number of planes we want to fit

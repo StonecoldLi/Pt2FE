@@ -1,0 +1,13 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 163
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 163
+DATA binary
+dPœÁoDƒÀ÷d.A˜eœÁãvƒÀ¢.AL=œÁ;ƒÀK.A5œÁâ6ƒÀC.Aš`œÁ¿­ƒÀ(á.AD6œÁ$tƒÀ@“.APœÁl¡ƒÀ¿Ã.A¢6œÁz{ƒÀÓ¤.AFœÁrGƒÀÝM.A¦CœÁZ·ƒÀ¬ÿ.AF,œÁ–ƒÀí».A œÁ°‚ƒÀµ•.AèœÁy—ƒÀ‘¸.AúNœÁeñƒÀÇW/A†œÁzsƒÀ°.At0œÁ4ÉƒÀã/A*œÁÖšƒÀsË.A$FœÁåùƒÀ€}/AìZœÁ8+„ÀþÃ/A>2œÁêëƒÀ6H/A:Ï›Á›IƒÀ C.A¢¿›ÁX2ƒÀ¾^.A=œÁ·„À¾j/Aö2œÁ5ûƒÀíX/A‚\œÁ–M„ÀªÔ/ATÎ›ÁhƒÀ™.A*Æ›Á`ƒÀç.AæÙ›Á…ƒÀ,«.A¢]œÁf„Àwø/A¢»›Á`ƒÀÜc.AìÛ›Áê¡ƒÀzÂ.AviœÁ5’„Àx@0AÒÁ›Á‚ƒÀâ».Ašå›ÁâÂƒÀ>/A`AœÁÇ_„ÀH0A€œÁ]"„À}‘/Aê½›ÁƒÀ¬.A¢æ›ÁCÙƒÀÁ(/AÒ›Áæ¼ƒÀ#/AÖ·›Á^šƒÀiº.A°«›Á¼ƒÀH›.ALÕ›ÁûÙƒÀ0*/A–¢›Á³ƒÀS®.AÌ›Á"YƒÀ¬b.AÌœÁvh„Àb0AÎœÁøi„ÀÆù/Aâ˜›Á"ŸƒÀèÁ.A.™›Á¿¥ƒÀÓ.A¨õ›Á,G„ÀÉ/Aîg›Á2bƒÀ”j.AÎ›Á‡„Àl/AR«›ÁsÜƒÀÙZ/A¨š›Á§ÄƒÀ+ö.A`»›Á<„ÀÈR/Ar÷›Ál„À	'0A.í›ÁSc„ÀSí/A®í›Á¥m„Àœ'0A°j›Á›ƒÀ Æ.A œÁó¡„ÀÒF0Až›Á·ÿƒÀ&|/A0Œ›Á îƒÀ"+/AS›ÁÆ•ƒÀÏÎ.AŽ‹›Át÷ƒÀaT/A®›Áy@„Àu°/Ajž›Á3„ÀX­/AxÃ›ÁMy„ÀLý/AÔy›Á¿„ÀÉe/Ahf›Á÷ƒÀ÷//Aø{›ÁX&„ÀðŠ/A°{›Áy2„ÀCœ/AJi›ÁE&„À†/A°@›Á_õƒÀáE/AzI›ÁG„À¢/A’B›Áô„À|/Arv›Á0„ÀY@0A`Y›Á8y„À÷/ALe›Á£¡„À’?0ADR›Ác¢„ÀA0AnC›Á?`ƒÀÒo.Aî'›Á<‚ƒÀð§.A´ÿšÁ”OƒÀcb.AþšÁõ]ƒÀíd.AJ÷šÁe]ƒÀ]a.Al›Á‡†ƒÀ³©.ATØšÁgIƒÀX.A›Á¼ƒÀƒÝ.Aè5›Á„Àöz/AßšÁò¥ƒÀ>Ð.A`›Á¥íƒÀY/A›ÁÅ+„À¥/A<
+›Á*$„Ày’/A$›Á#„À!“/Ar÷šÁU!„À‚/An›Á‘\„Àgí/AúšÁ4T„ÀRÉ/A›Á²„À*)0A>üšÁi„À00AÚšÁÕ„ÀZG0AÀMœÁëž„ÀAT0A€mœÁ”é„Àè¼0AèFœÁ*È„ÀÌ0A œÁ^‘„ÀšZ0AÄ1œÁÉ¶„À 0AöFœÁQÛ„ÀÜ®0Ar5œÁ¦É„À$—0ATRœÁ…À«Ï0AÆGœÁÊ…Àsã0A˜ œÁ¡Ï„À¸ž0A`œÁ»¬„ÀX0A°NœÁ10…À11AHiœÁáb…Àp1A¾AœÁB9…ÀÆ?1AtLœÁ Q…À„u1Aô*œÁ((…À)1AºÜ›ÁJ¨„ÀÒo0AP6œÁˆA…ÀøB1A&CœÁšW…Àñt1A<Û›ÁZ­„ÀÅf0AèœÁí…Àë1AôœÁÕ…À11An0œÁ€c…ÀÑt1AHÂ›ÁÄ„À£0AJá›Á=…ÀNÿ0AtÃ›ÁÚÜ„Àp¥0A@Î›Á	ü„ÀoÇ0AV’›Ám£„À7O0A`¸›Áíä„À¨©0Aî›Á(N…ÀHD1AÐ›Á"…Àßý0AÚŠ›Áµ„À0u0A¨Æ›Á! …ÀI1Aˆ‚›Á ¾„ÀÇt0Afy›Á=³„Àj0AŽ•›Á“æ„À=§0A\ª›ÁA…À*ï0A@–›Áªô„ÀâÌ0A~Î›Ác_…ÀùZ1A~²›Á8:…Àê!1AÂg›ÁpÔ„À‡0A}›Á×…À|ò0AÎI›Á.Ê„À8x0AÒp›Áê…À5û0A¸?›ÁÉ„À>y0ApB›ÁÇí„Àö£0AŽk›ÁE4…À¼1A&X›Á±…Àˆô0A¶e›ÁF;…ÀE*1A¬%›ÁˆÕ„À„ž0AÐM›Á6…À€	1AÀ0›Á4…À¯÷0AŠ<›Á­C…À,1AÜ›ÁÕ…À3ù0AÊ8›Á}R…ÀhP1Aæ!›Á|^…ÀÚa1AÞ›ÁE¢„ÀÉY0Ax›Á•Þ„Àå³0AôúšÁÐÃ„À”v0A¨›Á;…À›æ0Að›Áû…À û0A6÷šÁÖñ„ÀH³0A¸›Á&5…Ào1At›ÁI…À¤G1AÝšÁÉ…À&ð0A

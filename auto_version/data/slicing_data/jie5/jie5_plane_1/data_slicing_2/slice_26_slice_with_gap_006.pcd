@@ -1,0 +1,13 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 170
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 170
+DATA binary
+ƒéÂpô[@S\ï@äéÂ¹[@ŸÍî@OÙÂ;û[@+Mï@íÂ}f[@~oî@#íÂÚ)[@äî@ÃÌÂ.ò[@ýMï@_éÂp÷Z@£ï@ééÂ0îZ@»Ðí@4âÂª[@é+î@øåÂ[@WÏí@MÄÂ6â[@YQï@xÑÂÔ…[@=¸î@zÙÂbJ[@ñKî@yäÂŠóZ@°æí@%áÂý[@î@óêÂÂZ@—­í@ÝÂ[@‹î@°ÕÂó8[@©Mî@Õ½ÂžÀ[@ñî@¾åÂ5µZ@Sí@}ÙÂöZ@òÍí@léÂmlZ@!Yí@h½ÂŠ[@ë­î@—íÂÅZ@æWì@ÒÕÂ…“Z@ô7í@Æ£Â;¸[@Íï@5ÕÂZZ@$Öì@ÞÂœZ@{ì@©ÂTr[@Šî@8•Âß[@‰^ï@±µÂy[@Q÷í@¢Â&†[@)®î@ÆžÂ—’[@#2ï@ÅåÂ˜±Y@jÙë@²ÑÂª,Z@E»ì@¹ÂêÈZ@Õ•í@"½ÂÖ¨Z@ÊTí@r„Â)\@\Zï@›„Â®\@”‡ï@‰™Â8t[@Èµî@á„Âîú[@^Kï@Æ¨Â³ýZ@ýî@L±Âg·Z@µ7í@­¬ÂSÍZ@–•í@l€Â)é[@7Oï@k´ÂmŠZ@ Aí@IÉÂùY@A}ì@­ŒÂYˆ[@‰Òî@ñŒÂÚ‚[@¯î@½Âa6Z@Ùì@çÂM™[@á@ï@¥ËÂ‚§Y@ÐÕë@ÁÁÂÛåY@÷;ì@£ÂG­Z@Ý{í@VÂî‡[@æ®î@ðpÂ]î[@ELï@IŽÂ[@!î@˜ÙÂfY@÷ë@ÖáÂ)ãX@4¢ê@oÕÂp#Y@Žë@ÇtÂž[@’Ðî@»„Âˆ*[@<1î@¬ÝÂ˜ÏX@ƒê@¦²Â­êY@äIì@ŽÂ?sZ@;í@ßpÂ—[@…Îî@ÁÂ$ƒY@»›ë@Â$[@Ñ"î@NÁÂŠuY@O]ë@PÐÂ™	Y@Uë@B¾Â4~Y@6°ë@UÂÐ’Z@Xí@ûhÂ–[@BÏî@>êÂ°7X@-ìé@e”ÂñmZ@¨í@ÓœÂ##Z@…™ì@qÕÂ™‹X@â#ê@G|ÂÑZ@ê•í@QÁÂêY@×Àê@Æ—Â~Z@´Žì@EÑÂœ~X@Àê@`Âc[@iŒî@øÂZ@ {ì@f¢ÂšY@Ôñë@xKÂX¼[@oï@P½ÂoÄX@„ê@•ÂæËY@;üë@R»ÂYÍX@è‡ê@®˜ÂF±Y@ýÙë@sKÂ½¢[@áÑî@(ÅÂsX@Áâé@\iÂÌ°Z@ƒ£í@`hÂ£Z@Å=í@MœÂIY@úaë@ëÂŠY@[|ë@BiÂÖ…Z@T:í@7¥Â<õX@fÂê@1¨Â6ÜX@ÚÄê@ÆWÂØåZ@åÐí@ÔÈÂÁòW@ä,é@Ü¨ÂmÄX@œ¢ê@±ÂÜ_X@DÅé@hÂ®'Z@}®ì@˜¬Â:NX@`åé@'XÂ¢|Z@d;í@¯Â’3X@Jê@ˆ”Â‡ÝX@rÄê@Ë†Â©4Y@†=ë@(Âc£[@íðî@É[ÂWEZ@‰µì@¦$Â¡¬[@è0ï@í\ÂöZ@¿‚ì@<KÂÅZ@Uí@@Â›ÆZ@ñºí@¯GÂŒZ@i:í@¦;Â1ÑZ@$—í@þFÂšpZ@¹í@:tÂF@Y@gIë@çFÂ³DZ@¡Öì@7“ÂÛAX@<ê@z„Âý—X@úDê@y”Â[+X@Ê¦é@“;ÂçvZ@eí@diÂ%6Y@ÛPë@v”ÂŽX@ lé@*FÂöZ@±ùì@KÂòY@dXì@N€ÂÒX@¯%ê@XÂÜX@˜Lé@øBÂ_Z@uYì@¥QÂÔ¤Y@gDì@\•ÂÙàW@¯Bé@u„ÂÝKX@†æé@`Âï*Y@Kë@×FÂžÃY@“ì@
+KÂmžY@ÆÜë@c0Â7JZ@0»ì@K„ÂzX@{ké@l.ÂÙHZ@Wí@‚;ÂNÛY@˜4ì@ç3ÂùZ@~Wì@H?Â'²Y@!ì@g„Â†ÜW@Qé@R€ÂºìW@ú'é@CÂKdY@ª`ë@Ï#ÂN"Z@Ë¾ì@`pÂwX@µlé@ÓvÂ'ÛW@-&é@SÂ›ªX@ªeê@ùoÂ¶ìW@5)é@íFÂíX@œÄê@ ,Âp‹Y@nÀë@EOÂ’X@%ê@ÇNÂK€X@9Eê@KÂ‹X@¯%ê@^8ÂþY@Dë@9OÂvSX@Åæé@ÔFÂÌƒX@˜iê@LWÂýX@Yné@òCÂêŽX@˜‹ê@é,ÂŸY@Ië@‘+Â`Y@>ë@ÑFÂ/\X@Åæé@d7Â×X@öEê@ìAÂ/X@Ö¨é@!4Â!nX@±ê@‡/ÂÄsX@Ýê@8?Â*öW@c(é@f+ÂUnX@Ýê@£'ÂQÉW@p%é@

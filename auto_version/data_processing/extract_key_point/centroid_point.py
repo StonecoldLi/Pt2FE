@@ -37,3 +37,29 @@ def calculate_centroids_and_save(input_folder, output_file):
 # 计算质心并保存
 #calculate_centroids_and_save(input_folder, output_file)
 
+
+def compute_and_save_centroids(input_folder, output_folder):
+    # 确保输出文件夹存在
+    os.makedirs(output_folder, exist_ok=True)
+    
+    # 遍历输入文件夹中的所有文件
+    for filename in os.listdir(input_folder):
+        if filename.endswith('.pcd'):
+            file_path = os.path.join(input_folder, filename)
+            # 读取点云文件
+            pcd = o3d.io.read_point_cloud(file_path)
+            # 计算质心
+            points = np.asarray(pcd.points)
+            centroid = np.mean(points, axis=0)
+            # 创建新的点云对象并设置质心为唯一的点
+            centroid_pcd = o3d.geometry.PointCloud()
+            centroid_pcd.points = o3d.utility.Vector3dVector([centroid])
+            # 构造输出文件名并保存
+            centroid_filename = filename.replace('.pcd', '_centroid.pcd')
+            output_path = os.path.join(output_folder, centroid_filename)
+            o3d.io.write_point_cloud(output_path, centroid_pcd)
+            print(f"Saved centroid to {output_path}")
+
+# 使用示例
+# compute_and_save_centroids('path_to_input_folder', 'path_to_output_folder')
+

@@ -1,0 +1,20 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 157
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 157
+DATA binary
+O*.ÂhÀöz@”%.ÂbôgÀ”R @ù.ÂDÛgÀ˜â@-.ÂnÜhÀ$]#@V.ÂÎhÀ2Î!@“'.ÂQiÀºf"@aõ-ÂHÅgÀ‚@7).ÂD?iÀ(#@¨î-ÂØ¾gÀú³@/.ÂRriÀˆ#@¤.ÂØ¹hÀ˜L!@Ç.Â³iÀe"@A.ÂžøhÀn"@íó-Â—hÀÂ/@Ñý-Â^NhÀ @í/.ÂÌžiÀ‰^$@!ù-ÂK4hÀ[ @.ÂrhÀOé @;&.Âz‰iÀ
+h$@
+.ÂÆÜhÀêÊ!@Q*.Âø¾iÀ~t$@Yë-ÂÇ(hÀŽ @2Ý-Â¥ègÀ¢#@4Ï-ÂÒšgÀ5{@8.ÂuUjÀüW&@Ý÷-Âo¼hÀ~!@z4.Â?{jÀÑ&@W.ÂpêiÀ‚%@.Â:ÎiÀâª$@ .Â\/jÀ4º%@»õ-Â' iÀØi"@~.Âä‘iÀ€	$@èÍ-ÂJ+hÀ²@¹(.ÂýŠjÀÊ(@V(.Âï›jÀªH'@œ¿-ÂßêgÀ*o@¢.ÂdÕiÀ2%@n7.ÂnkÀaý'@Ì
+.ÂiñiÀb2%@×-Â#©hÀÎü @Íá-ÂóhÀ@M#@^ä-ÂpiÀ¦
+"@fè-Â,,iÀ<ü#@ãú-Âý«iÀ$@Xä-Â“1iÀ£"@¼Æ-Âa}hÀl² @¡Ÿ-Â@„gÀKv@iè-ÂgkiÀõ„#@Kã-Â‚ZiÀÞ#@…Ì-Â—ÅhÀës!@þ-ÂjÀÈ{%@Ù.Â7­jÀ '@‘Ì-Â~ãhÀŒ¹!@(0.Â«‚kÀüR)@"0.Â—kÀ“ã*@;+.ÂázkÀRí)@Òý-ÂªSjÀ¢&@¦§-ÂhÀÄ_@’ç-Â›ÈiÀ£¯$@ê.Â{jÀ–ì&@¸
+.Â§¿jÀC9'@¾-ÂôÏhÀ¬!!@…°-ÂMhÀðŠ @Sž-Â'hÀ¶œ@+
+.ÂìéjÀxÑ'@žÝ-ÂüÅiÀ…B$@Õ-Â œiÀßý#@û-Â‰©jÀcb'@o¢-Â6bhÀÔH!@m½-Â"iÀ'N"@y.ÂtkÀð3(@ƒ.ÂëkkÀö])@-ÂohÀË@%Ô-Â!ÙiÀ“©$@zÊ-ÂÄ©iÀ¬$@Çá-ÂþLjÀ>"&@1´-Âg#iÀ®™"@ê$.Â‰lÀüû*@D.ÂS€kÀú\)@-.Â_ãkÀá+@ÝÎ-Â¢êiÀ‰˜$@,˜-Â	„hÀ“Æ @L†-Â|hÀ2Z@Ü-ÂjfjÀ@Ÿ&@Z“-ÂÆˆhÀm9!@ž-Ây×hÀ\”!@7÷-Â×%kÀ](@F®-ÂæDiÀ&S#@ßÇ-ÂAõiÀÈ^%@à.ÂÓkÀò°*@ò-Â%&kÀÖ­(@á²-ÂŠiÀ`v#@F-ÂEhÀK< @›-Â÷hÀ´v#@xé-Â^kÀ-(@îÀ-Â,jÀb%@Í-Â„^jÀÆ§&@lª-Â³{iÀhÐ$@½Ù-Â§¼jÀht'@hë-Â»EkÀØ(@Í-Â‚îhÀdé!@°x-ÂÔvhÀvà @2­-ÂèÕiÀŸ<$@'Ç-ÂìŠjÀÂ'@¨l-ÂAhÀ>y @Š»-Â,TjÀ÷;&@
+€-Â!ÒhÀ­!@C¢-Â¹iÀ³˜$@,‰-Â¤-iÀHÄ"@V¾-ÂušjÀK“&@²-ÂøOjÀ1B&@oÖ-ÂÌEkÀøS)@X˜-Â[®iÀŒó#@-Â÷miÀH¿#@C±-ÂWbjÀºI&@ð¹-ÂæªjÀf÷&@ñ-ÂŒiÀúf#@£-Â\jÀÕ[%@>v-ÂHöhÀ²ô!@:Ì-ÂJkÀ8¡(@ž§-Â»[jÀû%@Ù-Â¬kÀÔ}*@Ðª-ÂjÀÓ(@£•-ÂjÀîð%@mÙ-Âã×kÀ6«*@Hu-ÂSDiÀB>$@ Á-Â„OkÀ5µ(@@‹-Â¹ñiÀÁ%@Û-Â¼jÀÕ>%@°×-ÂclÀÞ*@­¥-ÂÇjÀë9'@ä€-ÂÜÝiÀt$%@G´-Â26kÀž(@À¡-Âf½jÀî%'@3½-Â“‰kÀ(,)@q¸-Â@ƒkÀWx)@Ê-ÂÅlÀ¢ó*@+•-Âl»jÀH¢'@ó·-ÂÖ©kÀÖÅ)@\t-ÂúiÀ%@o-ÂËãiÀb„$@“-ÂZßjÀôq'@¥-Â[kÀdu)@l-Â€äiÀ*W$@xx-ÂmGjÀ(½%@>z-Â¤¶jÀ–C'@ƒr-ÂÛ«jÀ%#'@IŠ-ÂiOkÀ
+c)@Šr-ÂÌÎjÀÔe'@™-Â ìkÀòê*@ø~-Â5NkÀ<Ú(@´q-Â1kÀÞŽ(@p-ÂµPkÀ`<)@>z-Â˜kÀb¹)@\‹-Â lÀ:ä*@yx-ÂolÀ4)+@Œo-Â9íkÀu“*@

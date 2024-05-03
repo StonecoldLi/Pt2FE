@@ -1,0 +1,15 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 165
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 165
+DATA binary
+®x:AÈÜó¿ÆAT~:AıÑó¿œ,ÆAXØ:Asró¿ÆA d:A@¿ó¿lDÆA,Ä:A9∫ó¿ç4ÆA¸ó:A‡∏ó¿©6ÆAå∂:Aü›ó¿q`ÆA‰#;ALàó¿;ÆAn:A:<ò¿rúÆAd;A∑ó¿'CÆA§˙:AGŸó¿&YÆAà≈:A”ò¿J{ÆAP«:Aøò¿]êÆAÄÄ:AºRò¿Ô≤ÆAêê;A÷}ó¿œÆA‘Ö:Aæaò¿:∆ÆA`¯:AÚ
+ò¿XsÆA$t;A∑≤ó¿Ã4ÆAh;Aiò¿JuÆA4±;Aﬂïó¿<+ÆALY;A›·ó¿5dÆA@‡:A$Sò¿û∞ÆA´:AtÖò¿÷‹ÆAxg:Añ√ò¿˘ÆA¯≈;Ab•ó¿ﬁ0ÆA‹r;Aóò¿ÒÜÆA¥∏:AÇÆò¿ÃØA†˜:A“{ò¿∂’ÆA»m;A.ò¿FàÆAîl:AÉô¿C9ØAî÷:A›ºò¿ÉØAÙ–:Aù»ò¿ƒØA`1;ACzò¿·◊ÆAD\:AH6ô¿fØA¸◊;A„ò¿*tÆA8q:A1ô¿&YØATp;Aeò¿ƒ¬ÆAê";Aã¶ò¿EÍÆA‘Œ:AöÏò¿I4ØA‹Ç;AK\ò¿P∂ÆA(P;A1äò¿€‚ÆA</;A
+´ò¿-ÚÆA|ê:AaBô¿[ØA(Ï:A2˘ò¿∑:ØAlÌ;A:+ò¿¢ùÆAê¸;AK.ò¿‘àÆA¨i;AÈ∑ò¿T˚ÆAú§;Aéäò¿vÊÆAÏô;Aˇòò¿6ÂÆA–‘:A?ô¿‡mØA¿•;A¡ôò¿‰‡ÆA‘[;A≠‚ò¿ÛØA‘¬;A¯éò¿ÕÆA`l;A¡Ÿò¿¯ØA‰œ;Aàò¿PÕÆA–À:AØcô¿JÅØA∏à:Aÿ†ô¿É£ØAÑt;A„ò¿8ØAPÃ;A¢ò¿°ÛÆAÄ;;A∂ô¿ÀDØAƒ*;A)ô¿ﬁHØA∏‘;AÑ§ò¿ ‰ÆA§∑:Aôûô¿áúØAÃÃ;A0ºò¿	ÌÆA<Ù:AÄô¿AÇØA‚;AL¡ò¿I˙ÆA–
+<Ac§ò¿ÂÆAd∂;AD˛ò¿f+ØADd;AHEô¿hØA∏˝;A"Ãò¿‰ØA<A·∫ò¿>ÙÆAX<AUΩò¿}ˇÆA†j;AVWô¿{ØA∞Y;Afô¿dáØALp;AîXô¿¢zØAàì;AÜHô¿≤bØAh[;Aˇzô¿Ä}ØAÃP;AÃâô¿VöØA‡ß;AèCô¿∫kØAlÒ;Aô¿=ØA¯º;AÜ=ô¿_ØAË;A¸3ô¿#[ØA¨¯;A˘bô¿ìÄØA∞<AÑYô¿uØAÃ=<AÄzô¿k}ØAƒ<Aî®ô¿!üØA¯;<Aüèô¿‡¢ØAtI<Aêäô¿püØAà><AËÆô¿8°ØA–Ï;ARÖó¿’ÆAÄ<A âó¿»ÆAÄ˙;A/ùó¿L+ÆA‰<Af¥ó¿/FÆA®*<A˛Øó¿Æ<ÆA<?<AV¨ó¿ä0ÆAti<Aqïó¿	-ÆAÃ2<A#Ÿó¿PdÆA¨b<AZÃó¿TÆA∞©<Asòó¿ÆAP<A˙3ò¿•îÆAò4<A«ò¿ÙwÆAÏ0<A√"ò¿§ÇÆA  <AAØó¿Œ6ÆA® <AyNò¿≤ÆAú—<Aüƒó¿9?ÆAdè<A¿ò¿vÆA¯˜<AÆ´ó¿¿'ÆA¨|<Ahò¿‡~ÆA1=AËéó¿»ÆAúπ<A˙ó¿(rÆA|Ã<A´ó¿œfÆAd∏<Aÿò¿ﬁÇÆA, <A˚ò¿d{ÆA4.=AÓ∆ó¿ñDÆAú'<A+¢ò¿eÍÆAdë<AhQò¿≠ØÆAL=AÁÓó¿jÆA8p<AÇ{ò¿Æ«ÆAå=A¯ó¿aÆA‘Å=A“µó¿#8ÆA<À<AÍXò¿ÚØÆA‹j<A≠™ò¿≈ÏÆA–f=A◊›ó¿*XÆAËp=Aë„ó¿ATÆA¿o<AµŒò¿£ØAÙ≠<A£ò¿ÊÆAh>=AI.ò¿3ÑÆA@œ<Aﬂïò¿,⁄ÆAºA=As9ò¿üÆA∞Ç<Aù‰ò¿ìØA¯X=AÛ7ò¿∆úÆA$M<A‘ ô¿“AØAêd<Aéô¿_;ØAÄÇ=AŸ-ò¿èÆA¿å<A˛ò¿d5ØAO=A®_ò¿JªÆA¨<=Aqò¿%∆ÆAHØ<AHÈò¿⁄ ØA∞\=A…cò¿‘±ÆAtÚ<A2¿ò¿{ÒÆA†›<A9·ò¿ÇØAP_<A≠Oô¿ ZØAL=AÕò¿R˛ÆA0I=A˙úò¿jŸÆAËO=AÊôò¿o˚ÆA∆<A¢!ô¿∞=ØA–ö<Adô¿ÎyØA–=Aﬁô¿c4ØA¿K=A·ò¿GØA@f=AÊÃò¿J˚ÆAÏΩ<AÀZô¿økØA¸=AÆ!ô¿¯BØALr<Aıßô¿‹£ØADŸ<AcWô¿cØAúè<A!öô¿÷êØA Ç=A◊ÿò¿ƒØAî{=AÌÎò¿“ØApR=A„ô¿¨9ØA§<=Aô1ô¿¡KØAX9=AFô¿YØAX#=A/jô¿%ÄØAêY=A¶Oô¿âdØAH,=AÏàô¿W~ØAX{=Aíiô¿“ÄØA∞h=A•Øô¿ §ØA

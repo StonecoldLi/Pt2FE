@@ -22,7 +22,7 @@ def transform_point_cloud(pcd_file_path, vector, specific_point,output_file_path
     projected_vector = np.array([vector[0], vector[1], 0])
     
     # Target vector on the Z=0 plane (y-axis)
-    target_vector = np.array([0, 1, 0])
+    target_vector = np.array([1, 0, 0])
     
     # Angle between projected_vector and target_vector
     angle = np.arctan2(projected_vector[1], projected_vector[0]) - np.arctan2(target_vector[1], target_vector[0])

@@ -1,0 +1,17 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 156
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 156
+DATA binary
+ˆÈÂ¬‡ƒÀW2.ANÁÂ&ªƒÀjj.AXËÂÞƒÀ¯.AFÀÂG¼ƒÀa}.AÄÂ7×ƒÀîÎ.Aò®Â–’ƒÀF.Aè³Â¸ªƒÀ¶V.Aê¾ÂÛÔƒÀ¤.AäÄÂDðƒÀÿÊ.Aà¦Â’ƒÀ4:.A~¢ÂÐ‡ƒÀ
+:.A0«ÂÂ©ƒÀBx.A–ÎÂ®!„À-O.AHÂRTƒÀ´å-AèÁÂYþƒÀjÞ.Az¸ÂÀåƒÀºÉ.AX…ÂYDƒÀä-AH»ÂŒ„À5û.A@Â]‰ƒÀ™d.AlÃÂa<„À¦U/A“Âc ƒÀ#¾.AÎµÂ‰„À!/A¼‚Â_sƒÀ~.A¬šÂªÆƒÀD¨.A0’Âƒ°ƒÀ!e.ADÂIØƒÀ±§.AÔ­Âh„À;/A‚Â¬€ƒÀðD.A°Â{„ÀÙ/AFyÂÆhƒÀÅ.A:”Â
+ÃƒÀs‘.AÔ®ÂŸ„À/AúÂ™ƒƒÀ¡!.AR€Â‹ˆƒÀ°8.A`ÁÂ	a„À@{/A¼|ÂPƒƒÀ]3.A˜•Â½ÖƒÀ/À.A.ÏÂ¾š„À!Í/AÄÀÂel„À›/AäšÂŒ„ÀÛù.A«ÂéS„À7`/A|ÇÂh´„ÀÏë/A€lÂ‰ƒÀ\=.AhmÂµ•ƒÀTW.AŒ‹Â²„Àâõ.AøªÂåt„ÀU‡/AF¯Â™Š„ÀU°/AˆSÂÍcƒÀtû-A…Â„À/AÖUÂxƒÀd/.AÂ²Âš®„ÀËÖ/AuÂOéƒÀ¦¸.A`Ây¥ƒÀ²t.AžŸÂëy„ÀÂ—/AhrÂ‘åƒÀ&Ç.A’šÂ«o„À—/AÜ‘ÂqW„Àl/AèHÂÃtƒÀ€.AÜ™ÂÝ‘„ÀvÃ/Aj”Âf…„Àí»/AˆTÂ&½ƒÀ¯¥.AœWÂÈÍƒÀ¶­.A´jÂÔ„À÷/AÞlÂ‰„ÀÜc/AÌ3Â\ƒÀ.Aþ’ÂÜ„À«Û/A®ŽÂ¿„ÀèÍ/AŒVÂÙƒÀÃÓ.AÔrÂ;„ÀcQ/AºiÂl „Àî%/AÚ2ÂîmƒÀB.A¤vÂO„ÀZd/AúLÂ$ÜƒÀ÷».AHÂÅÏƒÀ0».Aþ%ÂübƒÀé.AL>Â9¾ƒÀ?‘.AÎÂœPƒÀ–ø-AêÂœ`ƒÀC.A,4Â[´ƒÀu°.AðwÂ–„ÀÜÆ/A’nÂx„À·œ/Ar	Â±KƒÀ\.A¨FÂñ„À!/A¸,Â“ÕƒÀõÛ.AHÂÄ4„À	D/A[Âº~„À»§/A°eÂ²„Àq0A+ÂóƒÀ¦í.A‚!ÂíäƒÀFÂ.Aþ@Â9P„À§h/Aº%Â?úƒÀÈê.AJ	Âê¤ƒÀ¢n.A”HÂL„À2¸/AtMÂÙ“„Àüº/AèÂ~úƒÀ0ä.AÄPÂº»„ÀÎ0A60ÂhX„À`v/A¤&ÂCF„Àra/Aš3ÂÀ‚„Àò°/AŽ<Â¥¡„ÀÄÚ/AL!ÂžK„À+^/Aô Â-R„Àþq/Aì=Âw·„ÀÐ'0AP7Âu¢„ÀÙ/Aæ4Â§„Àhù/A.-Â;„À…Â/A(Â-„„Àjê/A41Â½®„Àyé/AZ>Â®Ý„À$(0AÂA„Àg§/A’ÂÌ¢„À½ã/AN Â
+»„Àw!0A²Â°l„Àª/A¼$Â\æ„ÀxE0A ÂÐ„ÀF10AB	ÂÆ„À\,0AâÉÂ¶ù„ÀÕg0Az¾Âó„ÀðP0AüÁÂ÷…ÀtŒ0A2½Â
+…ÀŒ0AÞÀÂ+…ÀKŸ0AZÀÂw4…Àî±0AÄºÂd5…À°0A€±Â.$…Àþš0A^³Â9…À¦0A¢Â.…À&d0A¶Â'`…Àîë0AN›Â-…ÀÊ¦0A¸ŒÂë…Àöz0Aú{Âj	…Àç{0ARŒÂ›^…Àwç0A>„Â—M…ÀfÚ0A>lÂ:…ÀÆ…0ALbÂüñ„À¨o0AZmÂå…ÀÈŒ0AžxÂiS…ÀºÕ0ATSÂþð„ÀW0AŽiÂuN…ÀVÔ0AcÂÃ?…À¤ä0AZPÂ…À†~0A6lÂšj…À	ù0A bÂ
+Z…À2÷0A\UÂ‡M…À†Ú0AEÂŠ…À\›0Aª?Â\$…À0ž0Aè#ÂÉÑ„ÀMJ0AÆBÂðU…Àôì0A‚Â¶â„ÀkH0AôÂºå„ÀZX0AÎÂZ…Àšw0A\*ÂU,…Àª0AòÂáõ„ÀŽi0A Â#…À¹¥0A¸Â³6…À¾0A^Âg.…À²©0AzÂÀI…À2Ú0A

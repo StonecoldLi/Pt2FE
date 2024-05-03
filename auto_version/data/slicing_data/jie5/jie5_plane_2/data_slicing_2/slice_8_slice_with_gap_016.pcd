@@ -1,0 +1,18 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z
+SIZE 4 4 4
+TYPE F F F
+COUNT 1 1 1
+WIDTH 156
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 156
+DATA binary
+{0^Âè“À0¯šAÜ!^Âð’À¾ŸšA…0^Âa(“ÀTØšA"^Âþÿ’Àv¬šAê-^Âî?“À;ÓšA’)^ÂR:“À<ÈšA.^ÂK“À«ÏšA¢^Â’Ê’ÀŠˆšAè^Â“ÀcºšAD	^ÂH“ÀÆ¹šAÎ^ÂY*“ÀŠÂšAZ^Âë4“ÀBÕšAœõ]Â¤“ÀÂµšAÃã]Â•ù’À-•šA%ß]Âáú’ÀjžšA÷æ]Âî“ÀP¼šA›Í]ÂØÖ’Àt˜šAÙ]Â¼“À¥šAèÐ]Â"í’À%’šA–Ç]ÂüÕ’À:˜šALÆ]Â#Ú’Àç’šA'µ]Â«´’À“€šAe±]Âµ¿’À4…šAË¹]Âá’À„šA§½]Â¡ø’ÀUšAÉ]Â§9“ÀÈšAI«]Â[Þ’À®šAVª]ÂŠç’À²ŒšAé®]Âzû’À,”šAÇ¶]ÂÉ!“À~ºšA®]ÂQ“Àl§šAt›]Â›ú’À&¥šAÐ§]Âo2“ÀÌšAš]ÂÂ
+“Àß¬šAœ˜]Â@“ÀíÇšA«u]Â„â’À€ŽšAÄm]ÂÉÚ’À‘šAÌ‚]Âò%“ÀþÈšA¢]Âå"“ÀìºšAh]ÂÈ(“À»ÄšAÂˆ]ÂI\“ÀCÖšA—,^Âän“À´ðšA‘4^Âî”“ÀÎ›Aå#^Â—a“À
+ôšAÛ^ÂDY“À¸õšA«-^ÂŒ¶“ÀK0›A½^Â¾j“ÀV›Aÿ^ÂËT“À°æšAÎ	^ÂZz“À.›A'2^ÂÚ	”À×i›A1&^Â«ô“À¬\›Am2^Âß-”Àµƒ›Aåö]ÂOl“ÀÓöšAÄ^Â”Ñ“À¨;›A,^Â
+@”ÀB•›Aµ^Â
+Ç“ÀÌQ›Aò]Â½Ž“Àª ›AÙ
+^Âaú“ÀIn›A|4^Â§ˆ”ÀæÝ›Aá^ÂÔ”ÀY†›Aí^Â¢ÿ“Àni›AéÚ]Âs“ÀìúšAÒ-^ÂI”ÀƒÌ›A¼Ò]Â—k“À`ðšA9Ý]Â°•“À“›AAé]ÂõÂ“Àb3›Av^ÂÿM”Àú¹›A”Ë]Âçl“ÀÊ÷šAìù]Âq”Àæn›A—#^Âì¡”ÀðÜ›Aúâ]ÂåÑ“Àc4›AàÎ]Â@‘“ÀÔ	›Aæø]ÂÇ%”À«x›A4¾]Âüf“ÀèêšA£ù]Â+.”ÀC…›A>ô]Â±”À–l›A„Û]ÂÜÞ“ÀhP›Aóæ]ÂO”ÀÕa›AWü]Â¼P”À¢›AƒÔ]ÂÕÏ“À–8›AøÝ]Ââò“ÀM›Av^ÂRœ”ÀËá›A¦Ý]ÂÞú“ÀhV›Aìß]Â®”Àùf›A´ú]ÂV`”Àº›AŠ³]ÂÜx“Àë›A
+È]Â)Â“ÀÏ7›A˜ª]Â½c“ÀvñšAÕ»]Âê “À#›AÅ^ÂÔè”À6œAK²]ÂL—“Àì›Aö¨]Â€“ÀûšA^ÂÞî”ÀˆœAc ]Ârj“ÀnîšA°ß]ÂmB”Àt˜›A^Â›ç”ÀœA4^ÂœØ”À&û›Aæé]Â;z”Àú¹›AAÅ]Âd”À°Z›Aj°]ÂÄ“À‹2›AÁ]Â•f“À”öšAP°]Â/Ö“À6›AÝÚ]Âöl”ÀÄ±›Al¤]Âðº“ÀÆ-›AÀ]Â½€“À^›A´º]Â4”À_˜›AüÏ]Â	e”À©°›A÷ì]ÂÌÊ”ÀFö›AV‡]ÂH“À4›AÓy]Â}[“ÀÁÿšAœ]ÂEÔ“Àì@›A™Ž]Â·“ÀÐ!›AÄ]Â†k”Àó«›AÓp]ÂÇY“À2æšA‚]ÂÙ”“Àí›AÊÄ]Ât”À¿·›A€’]ÂÕ“À4›A±‡]ÂF³“À)›Aoâ]Âæá”ÀÒœAòæ]Âûù”ÀœAö³]ÂòR”ÀN—›A‚‘]ÂÉì“À>Q›A5‹]ÂýÛ“ÀI@›As]Â–“ÀF›A.m]Â‹†“À˜›A–]Âo*”À‰›A"Œ]Â`ó“ÀjY›AÁƒ]ÂÙ“ÀŠB›An®]ÂÖq”ÀÊ¸›AÓ±]Â ‘”ÀðÄ›Añˆ]Âz”À†r›A·¾]ÂŒÜ”ÀKœA«t]Âé“À^K›A€t]Âÿì“ÀŠ_›AVl]Â2Ö“ÀX›A¶«]ÂÍª”ÀÚÕ›AÒo]Ânæ“ÀfT›AF¯]ÂáÎ”Àò›A÷®]ÂCÐ”ÀÌú›Apr]Â”ÀÎk›Aƒ¥]ÂuË”À®ð›A§“]Â¢‘”ÀbÄ›Aá‚]Â¶\”Àv ›AO~]ÂIR”ÀV ›A¡v]Â©C”À–›A2y]Â¬M”À6°›Alq]Âú8”Àl•›A¯›]ÂÌ”Àxî›Al]Â»A”À“›A<’]ÂÁ”ÀCí›A¨]Â»”ÀÊì›Aµ‡]Â´”ÀÐø›A»‡]Â}¹”À…ß›AŽ]Âg­”ÀbÖ›A{k]Â:s”Àý¶›A•m]Â¤–”ÀÔ›A
