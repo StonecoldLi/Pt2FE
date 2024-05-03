@@ -47,5 +47,7 @@ def visualize_point_cloud_with_pca_svd(pcd_file_path):
     # Visualize point cloud and line
     o3d.visualization.draw_geometries([pcd, line_set])
 
+    return principal_vector
+
 # Example usage (commented out):
-visualize_point_cloud_with_pca_svd('../../data/org_data/jie5_b.pcd')
+#visualize_point_cloud_with_pca_svd('../../data/org_data/jie5_dimian_pcd_b.pcd')
