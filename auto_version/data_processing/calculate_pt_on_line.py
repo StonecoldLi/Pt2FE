@@ -32,7 +32,39 @@ def generate_points_and_save_as_pcd(start_point, direction_vector, interval, max
 
     # Save the point cloud to a file
     o3d.io.write_point_cloud(output_file, pcd)
-    print(f"Saved {num_points} points to {output_file}")
+    #print(f"Saved {num_points} points to {output_file}")
+
+    return points[-1]
+
+def generate_points_along_vector(P, Q, t, output_file):
+    # Convert P and Q to numpy arrays
+    #P = np.array(P)
+    #Q = np.array(Q)
+    
+    # Calculate direction vector and normalize it
+    direction_vector = Q - P
+    unit_vector = direction_vector / np.linalg.norm(direction_vector)
+    
+    # Calculate the number of points to generate
+    total_distance = np.linalg.norm(Q - P)
+    num_points = int(total_distance / t)
+    
+    # List to store generated points
+    points = [P + i * t * unit_vector for i in range(1, num_points) if np.linalg.norm(Q - (P + i * t * unit_vector)) >= t]
+
+    if points:
+        # Create a point cloud object
+        pcd = o3d.geometry.PointCloud()
+        pcd.points = o3d.utility.Vector3dVector(points)
+        
+        # Save the point cloud to a binary .pcd file
+        o3d.io.write_point_cloud(output_file, pcd, write_ascii=False)
+        print(f"Generated points saved to {output_file}")
+        print(f"Generated points saved to {output_file}")
+
+        return points
+    else:
+        print("No points generated.")
 
 # Example usage
 # start_point = [0, 0, 0]  # Starting point X
