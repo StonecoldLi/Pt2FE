@@ -7,7 +7,7 @@ import pandas as pd
 #df = pd.read_csv(csv_file)
 # 假设CSV文件中列名分别为'id', 'x', 'y', 'z'
 
-def bpa_rec(csv_file, output_csv):
+def bpa_rec(csv_file, output_csv, radii):
     df = pd.read_csv(csv_file)
 
     points = df[['x', 'y', 'z']].values  # 获取空间坐标
@@ -21,7 +21,7 @@ def bpa_rec(csv_file, output_csv):
 
     # 步骤2: 应用Ball Pivoting算法进行曲面重建
     #radii = [0.05, 0.2, 0.5, 0.9]  # 根据数据集调整球半径参数
-    radii = [0.05, 0.2, 0.5, 2] #plane2
+    #radii = [0.05, 0.2, 0.5, 2] #plane2
     rec_mesh = o3d.geometry.TriangleMesh.create_from_point_cloud_ball_pivoting(
         pcd, o3d.utility.DoubleVector(radii))
 

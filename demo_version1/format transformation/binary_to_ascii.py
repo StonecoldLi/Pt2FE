@@ -9,12 +9,12 @@ def load_pcd(filename):
 
 def bin_to_asc():
     print("Hello, world!")
-    filename = "C:/Users/ADMIN/Desktop/points_kua_Cloud_asc_2.pcd"
+    filename = "C:/Users/Administrator/Desktop/jie4.pcd"
     cloud_source = load_pcd(filename)
     if cloud_source:
         print(f"PointCloud_source has: {len(cloud_source.points)} data points.")
 
-        output_filename = "C:/Users/ADMIN/Desktop/points_kua_Cloud_asc_2.pcd"
+        output_filename = "C:/Users/Administrator/Desktop/jie4_asc.pcd"
         o3d.io.write_point_cloud(output_filename, cloud_source, write_ascii=True)
 
 if __name__ == "__main__":
