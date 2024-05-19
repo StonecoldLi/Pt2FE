@@ -1,123 +1,0 @@
-# .PCD v0.7 - Point Cloud Data file format
-VERSION 0.7
-FIELDS x y z
-SIZE 4 4 4
-TYPE F F F
-COUNT 1 1 1
-WIDTH 186
-HEIGHT 1
-VIEWPOINT 0 0 0 1 0 0 0
-POINTS 186
-DATA binary
-~	BÓj›@ß}c=Ž		B§œ@3~S=5	BtA™@”~_=î	Bcîš@b~u=ñ	Bàø—@[~g=¦#	B¡-›@”~_=,	BŒ°›@~i=.	BŒ‚š@œ}W=Í0	BhÁ›@”~_=ŠJ	BëHš@”~_=àO	B·š@”~_=dR	Bt#œ@o~Q=VZ	B¾ƒ™@„}e=‘r	BJ˜@”~_=z	BN
-˜@œ}W=Œ	Bo™@o~Q=Å‘	B”Íœ@”~_=î‘	B8Ÿ™@[~g=•	BÇY˜@~i=B¤	B1—˜@}~m=(¥	B/4›@~M=Ó	Bks™@Ø}U=Ù	Bvâ—@Ø}U=ÀÙ	BÇöš@”~_=÷Þ	BÙ™@T~Y=$ì	BÄ›@œ}W=~í	BZñ˜@3~S=¾ô	B¼²š@o~Q=ú	BÄ'@3~S="
-Bïš@o~Q=Ü
-B#É˜@o~Q=œ
-B@°@°}A=¤
-Bø˜@”~_=<	
-B§†š@”~_=
-B‚º˜@Ä}k=&
-B¼^@ú}[=ê7
-ByNœ@o~Q= A
-Bv)œ@Ø}U=ªh
-BÉ ™@ú}[=gi
-B=Õš@:~a=èk
-Búà—@}~m=r}
-B¥Z™@:~a=t}
-Bp–@½}]=6€
-B"q›@‰~I=ã‰
-Beäœ@ß}c=ÎŠ
-BÖ™˜@”~_=”‹
-B¯›@[~g=ÎŽ
-B
-”@Ø}U=¤ 
-BÀ\›@ú}[=f©
-B_Ä™@ß}c=<Á
-B/w@·}O=aÄ
-B÷Wš@ð}G=‡Æ
-B'êš@ß}c=‘É
-Bñþš@œ}W=ÖÍ
-B(¸š@ð}G=¼Ñ
-B®@M~K=
-Ô
-B}÷—@”~_=(ß
-B_ý™@œ}W=Úã
-Bö™™@ú}[=læ
-Bé)@ð}G=ì
-BY@ß}c=Lí
-BÈÑš@:~a=­÷BZÉ£@”~_=dýB|T§@:~a=šýB˜Îž@T~Y=Æ	BäÚ¦@:~a=j	BÝž@ú}[=æ	BáFŸ@:~a=s	B÷:§@D¿=	B¾„¤@Ø}U=-	BÅÉ¢@„}e=~	Bõƒ @~i=ÿ	B[¤@ú}[=-	BøÃŸ@:~a=
-/	Bƒ‹¡@ß}c=9	BÀ"¤@„}e=¼:	B²w§@T~Y=²;	B‡ì¡@½}]=…?	B“¤@:~a=‹I	B™9¡@~i=ÝO	BÆû¦@}~m=Öd	Bç|¢@o~Q=ig	Bïõ¡@Ä}k=0n	B1ú¡@o~Q=øu	B
-Mž@Ä}k= ‚	BÎ¦@í¾Š=0…	B¾÷ @”~_=†	BbÎ¦@A~o=Ê‘	BV @~i=è‘	B’»¦@Ï¾‹=$’	Bà¢@Ø}U=H”	B~6Ÿ@:~a=>–	B³À§@h~C=@˜	BgaŸ@œ}W=š	Bý‡Ÿ@”~_=‰›	BÃ¡@:~a=Iœ	Bý¥@3~S=¡	BÎÐž@3~S=Ú¡	B)£¢@Ø}U=µ¦	Bþï@œ}W=p§	Bu¡@ú}[=H¬	B:ú¢@:~a=~®	B†œ @·}O=À»	B1¤@Ø}U=M½	B·–Ÿ@ú}[=
-Á	BöÁ£@„}e=ÍÈ	B_ü¦@ª}s=J×	Bþ§@ú}[=Ø	B®§@”~_=\Ý	Båã¢@½}]=¾â	BÈ2£@ú}[=üä	B´JŸ@:~a=Vó	Bµ'¤@~i=Bö	Brî¡@”~_=·ÿ	B;4Ÿ@ú}[=¸
-BÔó¢@”~_=»
-BËŸ@ú}[=2
-B(§@A~o=(
-BÈo£@T~Y=Ë
-B¿ÿ¤@T~Y=f
-BLÞ£@ß}c=¶ 
-Bæ¿¡@:~a="
-B$š¡@„}e=ä'
-Bd.¤@M~K=‚*
-BëH @œ}W=Å*
-Bq§@”~_=B0
-B‹n¢@œ}W=6
-Bµ·¦@æ}q=;
-Bv¢@ß}c=˜=
-Bãz¥@æ}q=~>
-Bc§@ð}G=?
-B£è¥@ð}G=1?
-B]£ž@Ø}U=Ú?
-Bòý¢@·}O=xA
-B§§@o~Q=ˆB
-B¯•§@¡~;=-D
-B8×¥@T¿„=,E
-Bê@h~C=ôO
-B{è¢@œ}W=T
-B	Þ¡@ú}[=6T
-B¼“¦@„}e=–T
-BÃž@~M=xU
-Br @M~K=`Z
-B5¦@M~K=vi
-B[i§@Ø}U=,j
-BÊ§@œ}W=pr
-B&Æ¤@Ø}U=t
-B+Ý¢@„}e=1w
-BÝk£@+~E=F{
-B¥‡ @”~_="|
-B&Š¤@:~a=w}
-B–ú @œ}W=|}
-B½e¢@3~S=´~
-BäÊž@M~K=u
-B4«ž@„}e=×
-B¶Ÿ@·}O=@Œ
-B¤‰ž@:~a=(
-Bji£@·}O=ê—
-BUÛ¥@ú}[=ê˜
-BÔG¤@Ø}U=dš
-BÚ’¥@M~K=ìœ
-BSöž@:~a=½
-B¢@o~Q=xž
-B!«£@~M=üŸ
-B@v @œ}W=7¢
-B{¿£@½}]=£
-B'f @ß}c=Û§
-Bl¿¢@~7= ª
-B¤¦£@M~K=ãª
-Bó¡@~M=r­
-B†õ¥@[~g=Ø±
-Bbé¢@:~a=²
-B³¦@‰~I=µ
-B°ôŸ@œ}W=Š¶
-By‚£@‰~I=F·
-B¥@T~Y=Å¾
-BÓ#¡@ß}c=}¿
-B"m¡@o~Q=zÃ
-B•¦@+~E=@Ê
-Bâ¢@ð}G=¿à
-BÁÇ¤@3~S=Êå
-B¤—Ÿ@~M=è
-Bû»¢@½}]=’é
-BúBŸ@œ}W=üð
-B/3£@œ}W=ñ
-B|™§@
-~?=

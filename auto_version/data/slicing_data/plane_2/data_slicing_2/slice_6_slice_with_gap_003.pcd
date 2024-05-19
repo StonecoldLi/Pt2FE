@@ -1,39 +1,0 @@
-# .PCD v0.7 - Point Cloud Data file format
-VERSION 0.7
-FIELDS x y z
-SIZE 4 4 4
-TYPE F F F
-COUNT 1 1 1
-WIDTH 140
-HEIGHT 1
-VIEWPOINT 0 0 0 1 0 0 0
-POINTS 140
-DATA binary
-·F	AьFrюс┌╕@Чm	A~7qюс
-╔@чt	A·kютФ°@╬z	A⌠█mюсf÷@П┼	Aojюс> @╒▓	A3iюр&≥@`■	AOusюс2╗@е║	A┘╟mюр═@≤╥	AСslюсй²@▒у	A√"lюр▌²@НА	ALlrюс╝╕@╫М	A|qюсv╔@g"
-AОгmюс═@M;
-AlrюрБ╕@HH
-Aя╞pюяr╓@ПW
-A─)lют╨²@*X
-ASrюр╒╕@MX
-A:Иnюр╒║@ОX
-AZэhюр≥@Tb
-A*ZlютЖ²@лb
-A╔5pют┌ё@Лg
-AuХnютf║@Qv
-AVlюсJ²@─~
-A≤Аrюс√╖@├
-A▒уnюр ║@√┼
-A}YoюсN╒@x√
-A╦нoютй╒@z╡
-AJ]kюрb°@,ж
-A<lnютФ═@8Е
-A?tiют╨≥@zИ
-A4Mjюрр @≥Ш
-A╗qoюрF╒@яЩ
-Aеjюс╡⌡@▄A7Ъmюсj═@$A╧╜nюр▌║@GAH┼iюрН≥@Z#ADъnюрV║@П6Au!jюс√ @■;A)╛qюсZ╔@iKAQkkюсZ°@┤QAдkюсФ⌡@═UA┐Vmюр
-÷@tVA$│iюс┌≥@Ж\A█≤kюрЧ°@╝▐A<Ыiюр& @(▓Ao,kюр°@╕╜A╜эoюрН╒@{фA@sюс╡╖@uяAе▐kюрб°@сA[▒rюс╬╕@╞ЛAквrюс6╖@ЯA,jюрV @╕A⌡7rюяr╕@Ъ+A\Ъnюр╤║@6/A6vqюр╔@1A╠Llюрж²@╜2A≤sютf╗@·3A≥╒lюс·@1EA█jюс2⌡@dFA6╛oюс╒╒@RAОБoюрё@нkA·╦nюс>║@╤wAчsюрч╖@└└AnБnютv║@J░A╢wrюр╙╕@╬╕A<.kюр°@╡ьAмиnюс╕║@ТшA$╢nюрn║@vAGЦlюрz·@LA╚лrюрR╖@тA'qюс╡╓@Ч3A┌ЧlютФ·@t?A└Gkюс>°@2eAh]mюрV÷@▓rA/nюрz═@┌▀A╧5nюр╡═@÷≈A╞≤pюр*╓@╓ArюсN╕@j╫A"pюрrё@nеAtjюс╝ @DАAf└mюсб÷@*НAEзrюр~╖@°A`qюрR╔@бAVОoюсЗ╒@мAгikюс╒°@2AЫёiюс @лAmQnюр╙═@lA1ZlютЖ²@A▒Уiюсv @CA≥╧nют▓║@╠AQ╖sютv╗@0!AnRpюр╙ё@ТEAГ=mюсз·@KA╩ПkюсJ²@J^AаЦnюр▌║@╕iA
-lюр╤²@pkA÷ДsюсЙ╗@╤zAYАnюрV║@T└AчSrюр╤╕@M┘A╤kюсЖ⌡@°AсьqюрЧ╔@ь╖Aе╛lюс√·@N╗AnSjюр╙ @.╞AлНjюрР⌡@▌мA0Hsют&╗@≈ЕAп qют╨╔@ТТAM╨kюр
-²@║ЧAуrютf╖@Л
-A┬}sюс^╗@:/ATбrюр*╖@6²APmjюр⌡@Ь╗AWEpюр▌ё@аA1\jюрж @БеAdiюр┼≥@кA'©kюр6²@├ыAQ┐nюр║@ЛщAG'rюрb╕@чA╦zlюр·@╜чA)(qюрР╓@учA {kюсZ°@ХРAH▀nют:║@rЪA╘чnюсФ║@bAXQpюр┼ё@Д/A╙Cnюр▌═@н4AйЗnютv║@И]AСАkюс2²@ъfA┼:kюрR°@@xAWsюр
-╗@h└A├4qюсЙ╓@░A©nюсN═@Н╗AnpюсЖё@╡ATиkюсЗ°@t╦A╬kюсN°@░лAД÷iюрР≥@©оA│`lюрB·@эПA} mюрР·@nРAе▌jют:⌡@цЪAI≥iют╨≥@╔ AV═nюс.║@9AОomюрb÷@
