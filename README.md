@@ -100,7 +100,8 @@
 
 
 ## Release the 1st version in 2024/5/19
- - Still have plenty of bugs, like when we trying to revert the regional_centroids back to the original model, some points couldn't go to the right place.
- - I will fix those bugs in the future.
+ - Still have plenty of bugs, like when we trying to revert the regional_centroids back to the original model, some points couldn't go to the right place. I will fix those bugs in the future.
+ - Also, there is also some improvements in this version. One of those is that we add some restrictions to control the generated models to be more satisfied with the relistic one.
+![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/version_res.jpg#pic_center)  
  - Here I use GPT4o to generate a logo of this project~
 ![image](https://github.com/StonecoldLi/Pt2FE/blob/master/pictures/logo.jpg#pic_center)
