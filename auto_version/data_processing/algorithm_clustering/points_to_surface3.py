@@ -22,7 +22,6 @@ def fit_plane_PCA(points):
     '''
     主成分分析(PCA)来拟合给定点集的平面。
     PCA可以找到数据中的主要方向，并通过最后一个主成分(即数据方差最小的方向)来确定平面的法向量。
-
     '''
     pca = PCA(n_components=3)
     pca.fit(points)
@@ -46,7 +45,7 @@ def initialize_planes_with_kmeans(points, num_planes):
 
 def refine_planes(points, initial_planes, max_iterations=100, tolerance=1e-4):
     '''
-    此函数接收初始平面模型，并迭代地重新分配点到最近的平面，然后根据新分配的点重新拟合每个平面。
+    接收初始平面模型，并迭代地重新分配点到最近的平面，然后根据新分配的点重新拟合每个平面。
     '''
     plane_models = initial_planes
     assignments = np.zeros(points.shape[0], dtype=int)
@@ -80,11 +79,13 @@ def plot_points_by_group(points, assignments):
         ax.scatter(points[assignments == i, 0], points[assignments == i, 1], points[assignments == i, 2], color=colors[i])
     plt.show()
 
-# Example usage (Assuming `points_sample` is your points data)
-# points_sample = np.loadtxt('./plane_data_e6.txt') # Replace this with your actual data
-# points_sample = np.loadtxt('../rotated_data/rotated_e6.txt')
-# initial_planes = initialize_planes_with_kmeans(points_sample, 3)
-# refined_planes, refined_assignments = refine_planes(points_sample, initial_planes)
+
+
+
+#points_sample = np.loadtxt('./plane_data_e6.txt') # Replace this with your actual data
+#points_sample = np.loadtxt('../rotated_data/rotated_e6.txt')
+#initial_planes = initialize_planes_with_kmeans(points_sample, 3)
+#refined_planes, refined_assignments = refine_planes(points_sample, initial_planes)
 # print(refined_planes)
 #print(refined_assignments)
 
